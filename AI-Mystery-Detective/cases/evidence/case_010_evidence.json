@@ -1,0 +1,60 @@
+[
+  {
+    "evidence_id": "evidence_010_toll_receipt",
+    "name": "Falsified Toll Receipt",
+    "description": "A toll booth receipt Silas offered as an alibi, stamped hours after the evacuation actually began -- not before.",
+    "evidence_type": "document",
+    "location_found": "Village Square",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Silas Quill"
+    ]
+  },
+  {
+    "evidence_id": "evidence_010_rope_marks",
+    "name": "Fresh Rope Marks",
+    "description": "Rope abrasions on the bell tower's window ledge, consistent with lowering something heavy down by pulley.",
+    "evidence_type": "physical",
+    "location_found": "Abandoned Church",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Silas Quill"
+    ]
+  },
+  {
+    "evidence_id": "evidence_010_appraisal_card",
+    "name": "Appraiser's Business Card",
+    "description": "Silas's business card, found tucked behind a hymnal, listing his specialty as 'rare bronze and church artifacts.'",
+    "evidence_type": "document",
+    "location_found": "Abandoned Church",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Silas Quill"
+    ]
+  },
+  {
+    "evidence_id": "evidence_010_wheel_tracks",
+    "name": "Cart Wheel Tracks",
+    "description": "Deep wheel ruts leading from the church toward the forest path -- consistent with hauling something heavy, not a person.",
+    "evidence_type": "physical",
+    "location_found": "Forest Path",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Silas Quill"
+    ]
+  },
+  {
+    "evidence_id": "evidence_010_agnes_shawl",
+    "name": "Agnes's Shawl",
+    "description": "Agnes's shawl, found snagged on the well's stone rim -- she'd gone to check the well herself, not been taken.",
+    "evidence_type": "physical",
+    "location_found": "Well Area",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": []
+  }
+]

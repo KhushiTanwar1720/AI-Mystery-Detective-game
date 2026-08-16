@@ -1,0 +1,18 @@
+{
+  "case_id": "case_003",
+  "title": "Whispers in the Old Hotel",
+  "description": "The Grand Meridian Hotel has stood empty for a decade, but its owner's estate is finally being settled. A quick inspection turns into an investigation when the wall safe in Room 207 -- said to hold the hotel's original land deed -- is found forced open and empty, and the caretaker's log ends mid-sentence.",
+  "location": "Grand Meridian Hotel",
+  "crime_type": "theft",
+  "difficulty": "easy",
+  "correct_suspect": "Renee Ashworth",
+  "suspects": [
+    "Marcus Bell",
+    "Renee Ashworth",
+    "Tobias Grey",
+    "Iris Calloway"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

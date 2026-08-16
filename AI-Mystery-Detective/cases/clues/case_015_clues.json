@@ -1,0 +1,73 @@
+[
+  {
+    "clue_id": "clue_015_handwriting_match",
+    "description": "A handwriting expert confirms the file's annotations were written by Julian, not anyone currently employed at the estate.",
+    "source": "Evidence analysis",
+    "location": "Investigation Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_015_annotated_file",
+      "evidence_015_handwriting_sample"
+    ],
+    "related_suspects": [
+      "Julian Hartley"
+    ]
+  },
+  {
+    "clue_id": "clue_015_financial_trail",
+    "description": "Every account in the ledger traces back through shell companies to Julian's control.",
+    "source": "Evidence analysis",
+    "location": "Archive",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_015_ledger"
+    ],
+    "related_suspects": [
+      "Julian Hartley"
+    ]
+  },
+  {
+    "clue_id": "clue_015_key_access",
+    "description": "Only someone with the original master key fob -- reprogrammed by Julian himself -- could have accessed the restricted area undetected.",
+    "source": "Crime scene inspection",
+    "location": "Restricted Area",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_015_key_fob"
+    ],
+    "related_suspects": [
+      "Julian Hartley"
+    ]
+  },
+  {
+    "clue_id": "clue_015_contradiction",
+    "description": "Julian claimed he hadn't set foot on the property in twenty years, yet he corrected the survey map from memory before it was finished.",
+    "source": "Suspect questioning",
+    "location": "Deep Corridor",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_015_ledger"
+    ],
+    "related_suspects": [
+      "Julian Hartley"
+    ]
+  },
+  {
+    "clue_id": "clue_015_james_cleared",
+    "description": "James's account is consistent under scrutiny and matches the physical evidence -- he genuinely never knew the complex existed.",
+    "source": "Suspect questioning",
+    "location": "Underground Entrance",
+    "importance": "low",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_015_james_denial"
+    ],
+    "related_suspects": [
+      "Butler James"
+    ]
+  }
+]

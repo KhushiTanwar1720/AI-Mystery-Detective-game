@@ -1,0 +1,73 @@
+[
+  {
+    "clue_id": "clue_004_latch_match",
+    "description": "The scrape on the cabinet latch lines up exactly with the shoeprint's toe angle -- someone kicked it open.",
+    "source": "Crime scene inspection",
+    "location": "Principal's Office",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_004_shoeprint"
+    ],
+    "related_suspects": [
+      "Danny Ortiz"
+    ]
+  },
+  {
+    "clue_id": "clue_004_paint_trail",
+    "description": "Paint residue leads in a faint trail from the auditorium stage to the storage room where the medal display case usually sits empty.",
+    "source": "Crime scene inspection",
+    "location": "Old Auditorium",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_004_paint_hands",
+      "evidence_004_spraycan"
+    ],
+    "related_suspects": [
+      "Danny Ortiz"
+    ]
+  },
+  {
+    "clue_id": "clue_004_motive",
+    "description": "The expulsion letter confirms Danny was banned from campus after the same auditorium fight -- a clear grudge against the school.",
+    "source": "Evidence analysis",
+    "location": "Principal's Office",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_004_expulsion_letter"
+    ],
+    "related_suspects": [
+      "Danny Ortiz"
+    ]
+  },
+  {
+    "clue_id": "clue_004_contradiction",
+    "description": "Danny claimed he was nowhere near the school, but the paint under his nails is still wet.",
+    "source": "Suspect questioning",
+    "location": "Storage Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_004_paint_hands"
+    ],
+    "related_suspects": [
+      "Danny Ortiz"
+    ]
+  },
+  {
+    "clue_id": "clue_004_red_herring",
+    "description": "Carla's flyers already advertise the medal in the display -- but they're dated the day after the theft, meaning she couldn't have known it would be missing in advance.",
+    "source": "Evidence analysis",
+    "location": "Classroom Wing",
+    "importance": "low",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_004_flyers"
+    ],
+    "related_suspects": [
+      "Carla Nguyen"
+    ]
+  }
+]

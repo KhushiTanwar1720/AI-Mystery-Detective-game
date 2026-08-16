@@ -1,0 +1,78 @@
+[
+  {
+    "location_id": "loc_010_square",
+    "name": "Village Square",
+    "description": "Empty market stalls, the storm that never arrived leaving only an eerie stillness.",
+    "location_type": "outdoor",
+    "connected_locations": [
+      "loc_010_church",
+      "loc_010_house"
+    ],
+    "available_evidence": [
+      "evidence_010_toll_receipt"
+    ],
+    "available_clues": [
+      "clue_010_receipt_timing"
+    ]
+  },
+  {
+    "location_id": "loc_010_church",
+    "name": "Abandoned Church",
+    "description": "The bell tower stands silent, its rope swinging loose where the bell should hang.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_010_square"
+    ],
+    "available_evidence": [
+      "evidence_010_rope_marks",
+      "evidence_010_appraisal_card"
+    ],
+    "available_clues": [
+      "clue_010_pulley_method",
+      "clue_010_specialty_match"
+    ]
+  },
+  {
+    "location_id": "loc_010_house",
+    "name": "Old House",
+    "description": "Agnes's cottage, door left open, kettle still on the stove.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_010_square",
+      "loc_010_well"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_010_forest_path",
+    "name": "Forest Path",
+    "description": "A narrow dirt track leading out toward the main road, deep ruts pressed into the mud.",
+    "location_type": "outdoor",
+    "connected_locations": [
+      "loc_010_well"
+    ],
+    "available_evidence": [
+      "evidence_010_wheel_tracks"
+    ],
+    "available_clues": [
+      "clue_010_wheel_direction"
+    ]
+  },
+  {
+    "location_id": "loc_010_well",
+    "name": "Well Area",
+    "description": "An old stone well behind Agnes's cottage, its rim damp with recent handprints.",
+    "location_type": "outdoor",
+    "connected_locations": [
+      "loc_010_house",
+      "loc_010_forest_path"
+    ],
+    "available_evidence": [
+      "evidence_010_agnes_shawl"
+    ],
+    "available_clues": [
+      "clue_010_agnes_resolution"
+    ]
+  }
+]

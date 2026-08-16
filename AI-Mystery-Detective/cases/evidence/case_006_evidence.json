@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "evidence_006_broken_lock",
+    "name": "Broken Attic Lock",
+    "description": "The lockbox's lock was picked with a tool, not forced -- suggesting someone skilled or professional.",
+    "evidence_type": "physical",
+    "location_found": "Attic",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Warren Pike"
+    ]
+  },
+  {
+    "evidence_id": "evidence_006_fee_letter",
+    "name": "Fee Schedule Letter",
+    "description": "A letter showing Warren's fee under the new will is less than a third of what the old will guarantees him as executor.",
+    "evidence_type": "document",
+    "location_found": "Locked Study",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Warren Pike"
+    ]
+  },
+  {
+    "evidence_id": "evidence_006_briefcase_key",
+    "name": "Spare Attic Key",
+    "description": "A spare attic key found tucked in Warren's briefcase, which he claimed he'd never used.",
+    "evidence_type": "physical",
+    "location_found": "Living Room",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Warren Pike"
+    ]
+  },
+  {
+    "evidence_id": "evidence_006_garden_soil",
+    "name": "Disturbed Garden Soil",
+    "description": "A small patch of freshly turned soil near the garden shed, oddly out of place.",
+    "evidence_type": "physical",
+    "location_found": "Garden",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": [
+      "Ellis Thorne"
+    ]
+  },
+  {
+    "evidence_id": "evidence_006_old_draft",
+    "name": "Old Will Draft",
+    "description": "An early draft of the newer will with Warren's handwritten margin notes complaining about its terms.",
+    "evidence_type": "document",
+    "location_found": "Locked Study",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Warren Pike"
+    ]
+  }
+]

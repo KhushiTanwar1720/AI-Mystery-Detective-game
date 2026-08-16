@@ -1,0 +1,60 @@
+[
+  {
+    "evidence_id": "evidence_011_cut_wires",
+    "name": "Deliberately Cut Wires",
+    "description": "The lamp mechanism's wiring was cut cleanly, not damaged by storm weather.",
+    "evidence_type": "physical",
+    "location_found": "Lantern Room",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Barnaby Slate"
+    ]
+  },
+  {
+    "evidence_id": "evidence_011_harbor_log",
+    "name": "Neighboring Harbor Log",
+    "description": "A harbor logbook showing Barnaby's boat departed, not stayed docked, during the exact hours in question.",
+    "evidence_type": "document",
+    "location_found": "Basement",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Barnaby Slate"
+    ]
+  },
+  {
+    "evidence_id": "evidence_011_shipping_manifest",
+    "name": "Unmarked Shipping Manifest",
+    "description": "A manifest for an unregistered night crossing, timed for the same storm, found stuffed behind a shelf.",
+    "evidence_type": "document",
+    "location_found": "Keeper's Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Barnaby Slate"
+    ]
+  },
+  {
+    "evidence_id": "evidence_011_wet_bootprints",
+    "name": "Wet Boot Prints",
+    "description": "Salt-water boot prints leading up the spiral staircase, drying at exactly the time the light failed.",
+    "evidence_type": "physical",
+    "location_found": "Spiral Staircase",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Barnaby Slate"
+    ]
+  },
+  {
+    "evidence_id": "evidence_011_torn_logpage",
+    "name": "Torn Logbook Page",
+    "description": "A single torn page from Aldous's own logbook, snagged on the lantern room's railing -- he saw something and tried to record it.",
+    "evidence_type": "document",
+    "location_found": "Lantern Room",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": []
+  }
+]

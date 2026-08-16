@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_vivian_ashgrove",
+    "name": "Vivian Ashgrove",
+    "age": 52,
+    "occupation": "Descendant of the asylum's former director",
+    "description": "Her grandfather authorized the experiments; she has spent years quietly buying up documents that connect her family to them.",
+    "relationship_to_victim": "Family connection to the case",
+    "alibi": "Claims she came only to 'pay respects' to a difficult family history.",
+    "behavior": [
+      "Asked pointed questions about exactly which documents the historian had already photographed."
+    ],
+    "statements": [],
+    "suspicion_level": 55
+  },
+  {
+    "suspect_id": "suspect_pete_malone",
+    "name": "Pete Malone",
+    "age": 26,
+    "occupation": "Urban explorer",
+    "description": "Frequently trespasses at the asylum to film content, well known to local authorities.",
+    "relationship_to_victim": "Stranger",
+    "alibi": "Says he was filming in the treatment wing the whole time and never went near the archive.",
+    "behavior": [
+      "Was oddly cooperative and eager to hand over his camera footage unprompted."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  },
+  {
+    "suspect_id": "suspect_corwin_blake",
+    "name": "Dr. Corwin Blake",
+    "age": 71,
+    "occupation": "Retired psychiatrist",
+    "description": "Worked briefly at the asylum decades ago and has publicly criticized its practices ever since.",
+    "relationship_to_victim": "Former colleague",
+    "alibi": "Says he was at the site to be interviewed by the historian, as scheduled.",
+    "behavior": [
+      "Provided detailed, unprompted corroboration of the historian's version of events."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  },
+  {
+    "suspect_id": "suspect_femi_adeyemi",
+    "name": "Femi Adeyemi",
+    "age": 34,
+    "occupation": "Museum exhibit coordinator",
+    "description": "Hired the historian and stands to lose the exhibit's funding if the centerpiece documents don't surface.",
+    "relationship_to_victim": "Employer",
+    "alibi": "Says she was coordinating logistics by phone from outside the gate.",
+    "behavior": [
+      "Pushed hard to keep the investigation quiet to protect the museum's reputation."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "case_id": "case_010",
+  "title": "The Village That Sleeps",
+  "description": "Every resident of Hollow Fen evacuated overnight ahead of a storm that never came. When they return, the church's centuries-old bronze bell is gone from its tower, and elderly resident Agnes Marrow -- who refused to leave -- cannot be found anywhere in the village.",
+  "location": "Hollow Fen Village",
+  "crime_type": "theft",
+  "difficulty": "hard",
+  "correct_suspect": "Silas Quill",
+  "suspects": [
+    "Silas Quill",
+    "Rowan Marrow",
+    "Old Ezra",
+    "Father Devlin"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

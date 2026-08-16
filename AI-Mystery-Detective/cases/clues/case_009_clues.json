@@ -1,0 +1,73 @@
+[
+  {
+    "clue_id": "clue_009_pro_cut",
+    "description": "The cut is too precise for casual vandalism -- it required specialized equipment and expertise.",
+    "source": "Crime scene inspection",
+    "location": "Platform",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_009_cut_mural",
+      "evidence_009_toolmarks"
+    ],
+    "related_suspects": [
+      "Corinne Vasquez"
+    ]
+  },
+  {
+    "clue_id": "clue_009_tube_match",
+    "description": "The canvas tube is sized exactly for the missing mural section -- not incidental packing material.",
+    "source": "Crime scene inspection",
+    "location": "Station Entrance",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_009_canvas_tube"
+    ],
+    "related_suspects": [
+      "Corinne Vasquez"
+    ]
+  },
+  {
+    "clue_id": "clue_009_motive",
+    "description": "The commission email proves Corinne was explicitly hired to obtain this exact piece.",
+    "source": "Evidence analysis",
+    "location": "Control Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_009_commission_email"
+    ],
+    "related_suspects": [
+      "Corinne Vasquez"
+    ]
+  },
+  {
+    "clue_id": "clue_009_contradiction",
+    "description": "Corinne claimed her visit was purely historical, yet she carried professional cutting equipment and a transport tube.",
+    "source": "Suspect questioning",
+    "location": "Platform",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_009_toolmarks"
+    ],
+    "related_suspects": [
+      "Corinne Vasquez"
+    ]
+  },
+  {
+    "clue_id": "clue_009_red_herring",
+    "description": "Harold's logbook search was about a pension dispute over his old employment dates, unrelated to the mural.",
+    "source": "Evidence analysis",
+    "location": "Control Room",
+    "importance": "low",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_009_logbook"
+    ],
+    "related_suspects": [
+      "Harold Been"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "location_id": "loc_011_entrance",
+    "name": "Lighthouse Entrance",
+    "description": "The heavy iron door, its usual squeak oddly silent from recent oiling.",
+    "location_type": "entrance",
+    "connected_locations": [
+      "loc_011_keeper_room",
+      "loc_011_staircase"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_011_keeper_room",
+    "name": "Keeper's Room",
+    "description": "Aldous's quarters, neat except for a shelf pulled slightly askew.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_011_entrance",
+      "loc_011_basement"
+    ],
+    "available_evidence": [
+      "evidence_011_shipping_manifest"
+    ],
+    "available_clues": [
+      "clue_011_motive"
+    ]
+  },
+  {
+    "location_id": "loc_011_staircase",
+    "name": "Spiral Staircase",
+    "description": "A narrow iron staircase winding up the tower's interior, faint wet prints on the steps.",
+    "location_type": "hallway",
+    "connected_locations": [
+      "loc_011_entrance",
+      "loc_011_lantern"
+    ],
+    "available_evidence": [
+      "evidence_011_wet_bootprints"
+    ],
+    "available_clues": [
+      "clue_011_timeline"
+    ]
+  },
+  {
+    "location_id": "loc_011_lantern",
+    "name": "Lantern Room",
+    "description": "The great lamp sits dark and cold at the top of the tower, its wiring severed.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_011_staircase"
+    ],
+    "available_evidence": [
+      "evidence_011_cut_wires",
+      "evidence_011_torn_logpage"
+    ],
+    "available_clues": [
+      "clue_011_sabotage_confirmed",
+      "clue_011_aldous_fate"
+    ]
+  },
+  {
+    "location_id": "loc_011_basement",
+    "name": "Basement",
+    "description": "Storage crates and an old harbor logbook shelf, damp with sea air.",
+    "location_type": "basement",
+    "connected_locations": [
+      "loc_011_keeper_room"
+    ],
+    "available_evidence": [
+      "evidence_011_harbor_log"
+    ],
+    "available_clues": [
+      "clue_011_alibi_broken"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "evidence_id": "evidence_012_forged_patch",
+    "name": "Forged Portrait Patch",
+    "description": "A section of the restored portrait that, under close light, is clearly a modern forgery layered over the original canvas.",
+    "evidence_type": "physical",
+    "location_found": "Ballroom",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Adrian Vale"
+    ]
+  },
+  {
+    "evidence_id": "evidence_012_confrontation_note",
+    "name": "Edmund's Confrontation Note",
+    "description": "A note in Edmund's own hand, found in the library, reading 'Vale -- explain the portrait tonight, or I call the appraiser myself.'",
+    "evidence_type": "document",
+    "location_found": "Library",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Adrian Vale"
+    ]
+  },
+  {
+    "evidence_id": "evidence_012_missing_time",
+    "name": "Missing Twenty Minutes",
+    "description": "A guest's photograph timestamp placing Adrian absent from the ballroom during the exact window Edmund died.",
+    "evidence_type": "digital",
+    "location_found": "Ballroom",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Adrian Vale"
+    ]
+  },
+  {
+    "evidence_id": "evidence_012_solvent_smell",
+    "name": "Solvent Smell",
+    "description": "A faint trace of restoration solvent on the library door handle, matching Adrian's restoration kit exactly.",
+    "evidence_type": "physical",
+    "location_found": "Library",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Adrian Vale"
+    ]
+  },
+  {
+    "evidence_id": "evidence_012_investigator_file",
+    "name": "Reeve's Private File",
+    "description": "Investigator Reeve's file on Adrian's past forgery allegations at two other estates, compiled before tonight.",
+    "evidence_type": "document",
+    "location_found": "Servant Quarters",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Adrian Vale"
+    ]
+  },
+  {
+    "evidence_id": "evidence_012_unlatched_door",
+    "name": "Unlatched Side Door",
+    "description": "A side door near the hidden corridor left unlatched, allowing a quiet route between the ballroom and library.",
+    "evidence_type": "physical",
+    "location_found": "Hidden Corridor",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": []
+  }
+]

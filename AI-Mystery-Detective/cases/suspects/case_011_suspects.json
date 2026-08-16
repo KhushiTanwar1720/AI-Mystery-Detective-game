@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_barnaby_slate",
+    "name": "Barnaby Slate",
+    "age": 43,
+    "occupation": "Boat captain",
+    "description": "Runs unmarked night shipments along the coast and needed the light dark for one particular crossing.",
+    "relationship_to_victim": "Local sailor",
+    "alibi": "Claims he was docked at a neighboring harbor the entire night of the storm.",
+    "behavior": [
+      "A harbor log he cited as his alibi shows his boat departing, not arriving, that night."
+    ],
+    "statements": [],
+    "suspicion_level": 55
+  },
+  {
+    "suspect_id": "suspect_wren",
+    "name": "Wren",
+    "age": 24,
+    "occupation": "Keeper's apprentice",
+    "description": "Trained under Aldous for two years and was due to take over the post next season.",
+    "relationship_to_victim": "Apprentice",
+    "alibi": "Says she was in the keeper's room asleep when the storm hit.",
+    "behavior": [
+      "Was the one who raised the alarm the moment the light went dark."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  },
+  {
+    "suspect_id": "suspect_colby",
+    "name": "Insurance Investigator Colby",
+    "age": 39,
+    "occupation": "Maritime insurance investigator",
+    "description": "Arrived to assess a separate shipping claim just before Aldous disappeared.",
+    "relationship_to_victim": "Professional contact",
+    "alibi": "Says he was reviewing paperwork in the basement archive all night.",
+    "behavior": [
+      "Asked unusually specific questions about the lamp mechanism's exact failure point."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  },
+  {
+    "suspect_id": "suspect_hugh_finch",
+    "name": "Hugh Finch",
+    "age": 51,
+    "occupation": "Aldous's estranged brother",
+    "description": "Hadn't spoken to Aldous in a decade after a dispute over their late father's boat.",
+    "relationship_to_victim": "Sibling",
+    "alibi": "Says he wasn't even in town during the storm.",
+    "behavior": [
+      "Seemed more relieved than worried when Aldous couldn't be found."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  }
+]

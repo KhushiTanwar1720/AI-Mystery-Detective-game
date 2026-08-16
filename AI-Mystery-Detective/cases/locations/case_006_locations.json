@@ -1,0 +1,78 @@
+[
+  {
+    "location_id": "loc_006_hall",
+    "name": "Front Hall",
+    "description": "A grandfather clock ticks in the entryway, the house unnervingly quiet.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_006_living",
+      "loc_006_garden"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_006_living",
+    "name": "Living Room",
+    "description": "Family photos line the mantel above a cold fireplace.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_006_hall",
+      "loc_006_attic",
+      "loc_006_study"
+    ],
+    "available_evidence": [
+      "evidence_006_briefcase_key"
+    ],
+    "available_clues": [
+      "clue_006_key_contradiction"
+    ]
+  },
+  {
+    "location_id": "loc_006_attic",
+    "name": "Attic",
+    "description": "Boxes of old belongings surround the empty, splintered lockbox.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_006_living"
+    ],
+    "available_evidence": [
+      "evidence_006_broken_lock"
+    ],
+    "available_clues": [
+      "clue_006_lockpick_skill"
+    ]
+  },
+  {
+    "location_id": "loc_006_study",
+    "name": "Locked Study",
+    "description": "Mr. Calder's private study, still smelling faintly of pipe tobacco.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_006_living"
+    ],
+    "available_evidence": [
+      "evidence_006_fee_letter",
+      "evidence_006_old_draft"
+    ],
+    "available_clues": [
+      "clue_006_motive",
+      "clue_006_annotations"
+    ]
+  },
+  {
+    "location_id": "loc_006_garden",
+    "name": "Garden",
+    "description": "A modest garden, recently tended despite the household's grief.",
+    "location_type": "outdoor",
+    "connected_locations": [
+      "loc_006_hall"
+    ],
+    "available_evidence": [
+      "evidence_006_garden_soil"
+    ],
+    "available_clues": [
+      "clue_006_red_herring"
+    ]
+  }
+]

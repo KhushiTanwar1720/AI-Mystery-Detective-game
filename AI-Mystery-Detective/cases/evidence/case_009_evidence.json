@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "evidence_009_cut_mural",
+    "name": "Cleanly Cut Mural Section",
+    "description": "A section of tile cut with precision tools, not smashed or forced -- professional work.",
+    "evidence_type": "physical",
+    "location_found": "Platform",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Corinne Vasquez"
+    ]
+  },
+  {
+    "evidence_id": "evidence_009_canvas_tube",
+    "name": "Canvas Transport Tube",
+    "description": "A padded tube exactly the right size for a rolled section of tile mural, found in Corinne's bag.",
+    "evidence_type": "physical",
+    "location_found": "Station Entrance",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Corinne Vasquez"
+    ]
+  },
+  {
+    "evidence_id": "evidence_009_commission_email",
+    "name": "Printed Commission Email",
+    "description": "A printed email instructing Corinne to 'acquire the Millbrook piece by any means, client is paying premium.'",
+    "evidence_type": "document",
+    "location_found": "Control Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Corinne Vasquez"
+    ]
+  },
+  {
+    "evidence_id": "evidence_009_toolmarks",
+    "name": "Precision Cutting Tool Marks",
+    "description": "Marks matching a specialty tile saw, a tool no station maintenance crew would have owned.",
+    "evidence_type": "physical",
+    "location_found": "Platform",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Corinne Vasquez"
+    ]
+  },
+  {
+    "evidence_id": "evidence_009_logbook",
+    "name": "Rifled Logbook",
+    "description": "The old station logbook, pages flipped through recently looking for the mural's original placement records.",
+    "evidence_type": "document",
+    "location_found": "Control Room",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": [
+      "Harold Been"
+    ]
+  }
+]

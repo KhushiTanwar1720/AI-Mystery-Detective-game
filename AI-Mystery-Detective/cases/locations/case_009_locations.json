@@ -1,0 +1,76 @@
+[
+  {
+    "location_id": "loc_009_entrance",
+    "name": "Station Entrance",
+    "description": "A rusted turnstile gate, propped open for the inspection team.",
+    "location_type": "entrance",
+    "connected_locations": [
+      "loc_009_platform"
+    ],
+    "available_evidence": [
+      "evidence_009_canvas_tube"
+    ],
+    "available_clues": [
+      "clue_009_tube_match"
+    ]
+  },
+  {
+    "location_id": "loc_009_platform",
+    "name": "Platform",
+    "description": "The famous transit mural stretches down the wall -- save for one conspicuous missing section.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_009_entrance",
+      "loc_009_control"
+    ],
+    "available_evidence": [
+      "evidence_009_cut_mural",
+      "evidence_009_toolmarks"
+    ],
+    "available_clues": [
+      "clue_009_pro_cut",
+      "clue_009_contradiction"
+    ]
+  },
+  {
+    "location_id": "loc_009_control",
+    "name": "Control Room",
+    "description": "Dusty switchboards and an old logbook, undisturbed for decades until now.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_009_platform",
+      "loc_009_tunnel"
+    ],
+    "available_evidence": [
+      "evidence_009_commission_email",
+      "evidence_009_logbook"
+    ],
+    "available_clues": [
+      "clue_009_motive",
+      "clue_009_red_herring"
+    ]
+  },
+  {
+    "location_id": "loc_009_tunnel",
+    "name": "Maintenance Tunnel",
+    "description": "A narrow service tunnel running parallel to the old tracks.",
+    "location_type": "tunnel",
+    "connected_locations": [
+      "loc_009_control",
+      "loc_009_office"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_009_office",
+    "name": "Restricted Office",
+    "description": "A locked office once used by station security, its lock recently oiled.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_009_tunnel"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  }
+]

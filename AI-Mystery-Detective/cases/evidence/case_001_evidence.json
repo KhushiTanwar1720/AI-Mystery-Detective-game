@@ -1,0 +1,32 @@
+[
+  {
+    "evidence_id": "evidence_silver_polish_rag",
+    "name": "Silver Polish Rag",
+    "description": "A rag smelling of silver polish, found stuffed behind a cushion instead of in the cleaning cupboard where it belongs.",
+    "evidence_type": "physical",
+    "location_found": "Drawing room sofa",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": ["Butler James"]
+  },
+  {
+    "evidence_id": "evidence_torn_invitation",
+    "name": "Torn Invitation",
+    "description": "A party invitation torn in half, with a hastily scrawled note on the back.",
+    "evidence_type": "document",
+    "location_found": "Garden path",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": ["Guest Emily"]
+  },
+  {
+    "evidence_id": "evidence_muddy_footprints",
+    "name": "Muddy Footprints",
+    "description": "A trail of muddy footprints leading from the garden door to the kitchen.",
+    "evidence_type": "physical",
+    "location_found": "Kitchen hallway",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": []
+  }
+]

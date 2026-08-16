@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_preston_cole",
+    "name": "Preston Cole",
+    "age": 41,
+    "occupation": "Corporate observer",
+    "description": "Placed at the station by the facility's funding corporation, officially to 'monitor budget compliance.'",
+    "relationship_to_victim": "Corporate liaison",
+    "alibi": "Claims he was asleep in his quarters when the data wipe occurred.",
+    "behavior": [
+      "His personal laptop shows remote-access software the rest of the team never knew he had installed."
+    ],
+    "statements": [],
+    "suspicion_level": 55
+  },
+  {
+    "suspect_id": "suspect_naomi_ibrahim",
+    "name": "Dr. Naomi Ibrahim",
+    "age": 36,
+    "occupation": "Rival climate researcher",
+    "description": "Publicly disagreed with Elena's findings for over a year, though the two had recently begun collaborating again.",
+    "relationship_to_victim": "Colleague",
+    "alibi": "Says she was in the laboratory running an unrelated experiment overnight.",
+    "behavior": [
+      "Handed over her own raw data unprompted to help reconstruct what was lost."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  },
+  {
+    "suspect_id": "suspect_ravi",
+    "name": "Ravi",
+    "age": 28,
+    "occupation": "IT technician",
+    "description": "Responsible for the station's backup systems and the only one with root access to every drive.",
+    "relationship_to_victim": "Colleague",
+    "alibi": "Says he was troubleshooting a satellite uplink issue in the security wing.",
+    "behavior": [
+      "Immediately flagged the exact timestamp of the wipe without being asked to check."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  },
+  {
+    "suspect_id": "suspect_dana_marsh",
+    "name": "Dana Marsh",
+    "age": 45,
+    "occupation": "Security chief",
+    "description": "Oversees the facility's access logs and physical security.",
+    "relationship_to_victim": "Colleague",
+    "alibi": "Says she was on her scheduled perimeter check when Elena died.",
+    "behavior": [
+      "Provided access logs proactively, including logs that implicated a colleague."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  }
+]

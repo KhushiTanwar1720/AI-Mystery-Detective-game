@@ -1,0 +1,19 @@
+{
+  "case_id": "case_012",
+  "title": "The Manor Beneath the Fog",
+  "description": "Patriarch Edmund Thorncastle is found dead in the manor library during a fog-shrouded gala celebrating the unveiling of a newly restored family portrait. The restoration itself, it turns out, hid something no one was meant to find.",
+  "location": "Thorncastle Manor",
+  "crime_type": "murder",
+  "difficulty": "hard",
+  "correct_suspect": "Adrian Vale",
+  "suspects": [
+    "Adrian Vale",
+    "Butler Higgins",
+    "Camille Thorncastle",
+    "Investigator Reeve",
+    "Silas the Gardener"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

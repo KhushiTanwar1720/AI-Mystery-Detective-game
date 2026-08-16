@@ -1,0 +1,18 @@
+{
+  "case_id": "case_015",
+  "title": "The Blackwood Underground",
+  "description": "Renovation work beneath Blackwood Mansion -- site of the very first case -- breaks through into a sealed underground complex no one knew existed. Inside, an archive documents years of quiet operations run from beneath the estate, and the file on the Hartley necklace theft is open on a desk, annotated in a hand no one at the mansion recognizes.",
+  "location": "Beneath Blackwood Mansion",
+  "crime_type": "conspiracy",
+  "difficulty": "hard",
+  "correct_suspect": "Julian Hartley",
+  "suspects": [
+    "Butler James",
+    "Julian Hartley",
+    "Petra Voss",
+    "Dax Reilly"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

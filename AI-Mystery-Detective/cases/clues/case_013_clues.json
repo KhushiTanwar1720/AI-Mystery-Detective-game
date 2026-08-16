@@ -1,0 +1,72 @@
+[
+  {
+    "clue_id": "clue_013_software_intent",
+    "description": "The remote-wipe software was installed weeks in advance, ruling out a spur-of-the-moment act.",
+    "source": "Evidence analysis",
+    "location": "Server Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_013_remote_access"
+    ],
+    "related_suspects": [
+      "Preston Cole"
+    ]
+  },
+  {
+    "clue_id": "clue_013_motive",
+    "description": "The corporate memo gives Preston direct, documented orders to suppress the exact dataset that was wiped.",
+    "source": "Evidence analysis",
+    "location": "Facility Entrance",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_013_corporate_memo"
+    ],
+    "related_suspects": [
+      "Preston Cole"
+    ]
+  },
+  {
+    "clue_id": "clue_013_alibi_broken",
+    "description": "The badge log directly contradicts Preston's claim of being asleep -- he was in the server room at the critical moment.",
+    "source": "Crime scene inspection",
+    "location": "Security Wing",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_013_access_log"
+    ],
+    "related_suspects": [
+      "Preston Cole"
+    ]
+  },
+  {
+    "clue_id": "clue_013_glove_match",
+    "description": "The torn glove fiber physically places Preston at the server rack itself, not just in the room.",
+    "source": "Crime scene inspection",
+    "location": "Server Room",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_013_broken_glove"
+    ],
+    "related_suspects": [
+      "Preston Cole"
+    ]
+  },
+  {
+    "clue_id": "clue_013_red_herring",
+    "description": "Naomi's rivalry with Elena was professional, not personal -- her freely offered backup data clears her of any involvement.",
+    "source": "Evidence analysis",
+    "location": "Laboratory",
+    "importance": "low",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_013_ibrahim_data"
+    ],
+    "related_suspects": [
+      "Dr. Naomi Ibrahim"
+    ]
+  }
+]

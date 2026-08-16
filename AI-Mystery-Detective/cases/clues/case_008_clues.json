@@ -1,0 +1,72 @@
+[
+  {
+    "clue_id": "clue_008_targeted_theft",
+    "description": "Only the one box connected to Vivian's grandfather is missing -- a targeted theft, not a random one.",
+    "source": "Crime scene inspection",
+    "location": "Archive",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_008_archive_gap"
+    ],
+    "related_suspects": [
+      "Vivian Ashgrove"
+    ]
+  },
+  {
+    "clue_id": "clue_008_motive",
+    "description": "The family letters show a clear, years-long motive to erase this specific documentation.",
+    "source": "Evidence analysis",
+    "location": "Main Hall",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_008_family_letters"
+    ],
+    "related_suspects": [
+      "Vivian Ashgrove"
+    ]
+  },
+  {
+    "clue_id": "clue_008_ledger_match",
+    "description": "The torn ledger corner in the archive matches the historian's notebook exactly -- someone grabbed the box while he was mid-photograph.",
+    "source": "Evidence analysis",
+    "location": "Archive",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_008_torn_ledger"
+    ],
+    "related_suspects": [
+      "Vivian Ashgrove"
+    ]
+  },
+  {
+    "clue_id": "clue_008_height_match",
+    "description": "The glove print's height rules out the historian entirely and matches Vivian's build.",
+    "source": "Crime scene inspection",
+    "location": "Archive",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_008_glove_print"
+    ],
+    "related_suspects": [
+      "Vivian Ashgrove"
+    ]
+  },
+  {
+    "clue_id": "clue_008_red_herring",
+    "description": "Pete's own footage clears him -- unsettling as his hobby is, he was nowhere near the archive.",
+    "source": "Evidence analysis",
+    "location": "Treatment Wing",
+    "importance": "low",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_008_camera_footage"
+    ],
+    "related_suspects": [
+      "Pete Malone"
+    ]
+  }
+]

@@ -1,0 +1,212 @@
+{
+  "levels": [
+    {
+      "level_number": 1,
+      "case_id": "case_001",
+      "title": "The Missing Necklace",
+      "subtitle": "Blackwood Mansion",
+      "difficulty_stars": 2,
+      "horror_rating": 1,
+      "locations": [
+        "Blackwood Mansion"
+      ]
+    },
+    {
+      "level_number": 2,
+      "case_id": "case_003",
+      "title": "Whispers in the Old Hotel",
+      "subtitle": "Abandoned Hotel",
+      "difficulty_stars": 3,
+      "horror_rating": 2,
+      "locations": [
+        "Abandoned Hotel",
+        "Reception",
+        "Guest Room",
+        "Basement"
+      ]
+    },
+    {
+      "level_number": 3,
+      "case_id": "case_004",
+      "title": "The Empty School",
+      "subtitle": "Closed for the Summer",
+      "difficulty_stars": 3,
+      "horror_rating": 3,
+      "locations": [
+        "School",
+        "Classroom",
+        "Hallway",
+        "Principal's Office"
+      ]
+    },
+    {
+      "level_number": 4,
+      "case_id": "case_005",
+      "title": "Footsteps in the Forest",
+      "subtitle": "Deep Woods",
+      "difficulty_stars": 3,
+      "horror_rating": 4,
+      "locations": [
+        "Dark Forest",
+        "Cabin",
+        "Trail",
+        "Watchtower"
+      ]
+    },
+    {
+      "level_number": 5,
+      "case_id": "case_006",
+      "title": "The House at the End of the Road",
+      "subtitle": "Isolated House",
+      "difficulty_stars": 3,
+      "horror_rating": 5,
+      "locations": [
+        "Isolated House",
+        "Attic",
+        "Study",
+        "Garden"
+      ]
+    },
+    {
+      "level_number": 6,
+      "case_id": "case_007",
+      "title": "The Silent Hospital",
+      "subtitle": "Ward Closed Indefinitely",
+      "difficulty_stars": 4,
+      "horror_rating": 6,
+      "locations": [
+        "Hospital",
+        "Reception",
+        "Patient Ward",
+        "Records Room",
+        "Basement"
+      ]
+    },
+    {
+      "level_number": 7,
+      "case_id": "case_008",
+      "title": "The Forgotten Asylum",
+      "subtitle": "Condemned Grounds",
+      "difficulty_stars": 4,
+      "horror_rating": 7,
+      "locations": [
+        "Asylum",
+        "Main Hall",
+        "Observation Room",
+        "Archive",
+        "Underground Passage"
+      ]
+    },
+    {
+      "level_number": 8,
+      "case_id": "case_009",
+      "title": "The Underground Station",
+      "subtitle": "Line Decommissioned",
+      "difficulty_stars": 4,
+      "horror_rating": 7,
+      "locations": [
+        "Abandoned Station",
+        "Platform",
+        "Control Room",
+        "Maintenance Tunnel"
+      ]
+    },
+    {
+      "level_number": 9,
+      "case_id": "case_010",
+      "title": "The Village That Sleeps",
+      "subtitle": "No One Answers",
+      "difficulty_stars": 4,
+      "horror_rating": 8,
+      "locations": [
+        "Abandoned Village",
+        "Church",
+        "Village House",
+        "Forest Path"
+      ]
+    },
+    {
+      "level_number": 10,
+      "case_id": "case_011",
+      "title": "The Lighthouse",
+      "subtitle": "Storm Warning",
+      "difficulty_stars": 4,
+      "horror_rating": 8,
+      "locations": [
+        "Lighthouse",
+        "Keeper's Room",
+        "Spiral Staircase",
+        "Basement"
+      ]
+    },
+    {
+      "level_number": 11,
+      "case_id": "case_012",
+      "title": "The Manor Beneath the Fog",
+      "subtitle": "Old Money, Older Secrets",
+      "difficulty_stars": 5,
+      "horror_rating": 9,
+      "locations": [
+        "Manor",
+        "Ballroom",
+        "Library",
+        "Servant Quarters",
+        "Hidden Corridor"
+      ]
+    },
+    {
+      "level_number": 12,
+      "case_id": "case_013",
+      "title": "The Frozen Research Facility",
+      "subtitle": "Contact Lost",
+      "difficulty_stars": 5,
+      "horror_rating": 9,
+      "locations": [
+        "Laboratory",
+        "Observation Room",
+        "Server Room",
+        "Security Wing",
+        "Underground Section"
+      ]
+    },
+    {
+      "level_number": 13,
+      "case_id": "case_014",
+      "title": "The Town Beneath the Lake",
+      "subtitle": "Drained at Midnight",
+      "difficulty_stars": 5,
+      "horror_rating": 9,
+      "locations": [
+        "Flooded Town",
+        "Old Hotel",
+        "Town Hall",
+        "Underground Tunnel"
+      ]
+    },
+    {
+      "level_number": 14,
+      "case_id": "case_015",
+      "title": "The Blackwood Underground",
+      "subtitle": "Beneath the Mansion",
+      "difficulty_stars": 5,
+      "horror_rating": 10,
+      "locations": [
+        "Underground Complex",
+        "Archive",
+        "Hidden Laboratory",
+        "Restricted Area"
+      ]
+    },
+    {
+      "level_number": 15,
+      "case_id": "case_016",
+      "title": "THE FINAL CASE",
+      "subtitle": "Everything Converges",
+      "difficulty_stars": 5,
+      "horror_rating": 10,
+      "locations": [
+        "The Final Case"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "suspect_id": "suspect_elias_wilmarth",
+    "name": "Dr. Elias Wilmarth",
+    "age": 63,
+    "occupation": "Private collector and self-described 'curator of mysteries'",
+    "description": "Has spent decades quietly funding, observing, and in some cases orchestrating the very cases the detective has solved -- treating them as a private collection to study.",
+    "relationship_to_victim": "Mastermind",
+    "alibi": "Claims to be merely an admirer who 'collects the aftermath, never causes it.'",
+    "behavior": [
+      "His personal ledger cross-references every prior case by name, including details never made public."
+    ],
+    "statements": [],
+    "suspicion_level": 60
+  },
+  {
+    "suspect_id": "suspect_julian_hartley_final",
+    "name": "Julian Hartley",
+    "age": 58,
+    "occupation": "Financier",
+    "description": "Revealed beneath Blackwood Mansion to have long financed operations on Wilmarth's behalf.",
+    "relationship_to_victim": "Associate",
+    "alibi": "Says he only followed instructions and never met Wilmarth in person.",
+    "behavior": [
+      "Cooperated fully once shown the financial trail, confirming Wilmarth issued every order."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  },
+  {
+    "suspect_id": "suspect_renee_ashworth_final",
+    "name": "Renee Ashworth",
+    "age": 31,
+    "occupation": "Former hotel heir",
+    "description": "Recruited early on by Wilmarth's network after her deed scheme, now cooperating with the investigation.",
+    "relationship_to_victim": "Recruited associate",
+    "alibi": "Says she was promised protection from prosecution in exchange for information.",
+    "behavior": [
+      "Provided a detailed account of how Wilmarth's agents first approached her."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  },
+  {
+    "suspect_id": "suspect_corinne_vasquez_final",
+    "name": "Corinne Vasquez",
+    "age": 45,
+    "occupation": "Art collector's agent",
+    "description": "Her mural acquisition at Millbrook Station was, it turns out, commissioned by Wilmarth under a shell client's name.",
+    "relationship_to_victim": "Recruited associate",
+    "alibi": "Says she never knew her true client's identity until now.",
+    "behavior": [
+      "Recognized Wilmarth's handwriting on a commission letter instantly."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  },
+  {
+    "suspect_id": "suspect_petra_voss_final",
+    "name": "Petra Voss",
+    "age": 41,
+    "occupation": "Archivist",
+    "description": "Hired to catalogue the Blackwood complex, she followed the paper trail here herself.",
+    "relationship_to_victim": "Independent investigator",
+    "alibi": "Says she came only to confirm what the ledger implied.",
+    "behavior": [
+      "Was the one who first connected Wilmarth's name across every prior case file."
+    ],
+    "statements": [],
+    "suspicion_level": 5
+  }
+]

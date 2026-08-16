@@ -1,0 +1,72 @@
+[
+  {
+    "clue_id": "clue_006_lockpick_skill",
+    "description": "The picked lock requires legal-document-box expertise -- exactly the kind of lock Warren's own office uses.",
+    "source": "Crime scene inspection",
+    "location": "Attic",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_006_broken_lock"
+    ],
+    "related_suspects": [
+      "Warren Pike"
+    ]
+  },
+  {
+    "clue_id": "clue_006_motive",
+    "description": "The fee schedule gives Warren a direct financial reason to make the new will disappear.",
+    "source": "Evidence analysis",
+    "location": "Locked Study",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_006_fee_letter"
+    ],
+    "related_suspects": [
+      "Warren Pike"
+    ]
+  },
+  {
+    "clue_id": "clue_006_key_contradiction",
+    "description": "Warren denied ever using the attic, but a spare key to it was in his own briefcase.",
+    "source": "Suspect questioning",
+    "location": "Living Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_006_briefcase_key"
+    ],
+    "related_suspects": [
+      "Warren Pike"
+    ]
+  },
+  {
+    "clue_id": "clue_006_annotations",
+    "description": "Warren's own handwriting shows he resented the new will's terms weeks before Mr. Calder died.",
+    "source": "Evidence analysis",
+    "location": "Locked Study",
+    "importance": "medium",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_006_old_draft"
+    ],
+    "related_suspects": [
+      "Warren Pike"
+    ]
+  },
+  {
+    "clue_id": "clue_006_red_herring",
+    "description": "The disturbed soil turns out to be from Ellis planting bulbs for Mr. Calder days before he died -- unrelated to the theft.",
+    "source": "Crime scene inspection",
+    "location": "Garden",
+    "importance": "low",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_006_garden_soil"
+    ],
+    "related_suspects": [
+      "Ellis Thorne"
+    ]
+  }
+]

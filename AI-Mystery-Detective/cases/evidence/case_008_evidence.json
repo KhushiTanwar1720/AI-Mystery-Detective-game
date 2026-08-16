@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "evidence_008_archive_gap",
+    "name": "Empty Archive Slot",
+    "description": "A single archive box missing from an otherwise untouched shelf, its neighbors undisturbed.",
+    "evidence_type": "physical",
+    "location_found": "Archive",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Vivian Ashgrove"
+    ]
+  },
+  {
+    "evidence_id": "evidence_008_family_letters",
+    "name": "Family Letters",
+    "description": "Personal letters showing Vivian has spent three years and considerable money buying up records connected to her grandfather's tenure.",
+    "evidence_type": "document",
+    "location_found": "Main Hall",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Vivian Ashgrove"
+    ]
+  },
+  {
+    "evidence_id": "evidence_008_torn_ledger",
+    "name": "Torn Ledger Page",
+    "description": "A torn page from the historian's own research ledger, the missing corner found snagged on a shelf in the archive.",
+    "evidence_type": "document",
+    "location_found": "Archive",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Vivian Ashgrove"
+    ]
+  },
+  {
+    "evidence_id": "evidence_008_glove_print",
+    "name": "Glove Print in Dust",
+    "description": "A gloved handprint on the archive shelf, at a height matching Vivian, not the shorter historian.",
+    "evidence_type": "physical",
+    "location_found": "Archive",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Vivian Ashgrove"
+    ]
+  },
+  {
+    "evidence_id": "evidence_008_camera_footage",
+    "name": "Pete's Camera Footage",
+    "description": "Timestamped footage confirming Pete was filming in the treatment wing during the entire window in question.",
+    "evidence_type": "digital",
+    "location_found": "Treatment Wing",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": [
+      "Pete Malone"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "location_id": "loc_005_trail",
+    "name": "Forest Trail",
+    "description": "The marked trail Colton signed out on, muddy from a recent rain.",
+    "location_type": "outdoor",
+    "connected_locations": [
+      "loc_005_cabin",
+      "loc_005_camp"
+    ],
+    "available_evidence": [
+      "evidence_005_snareline"
+    ],
+    "available_clues": [
+      "clue_005_red_herring"
+    ]
+  },
+  {
+    "location_id": "loc_005_cabin",
+    "name": "Ranger Cabin",
+    "description": "Silas's small station, permit logs pinned to a corkboard.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_005_trail"
+    ],
+    "available_evidence": [
+      "evidence_005_receipt",
+      "evidence_005_lawsuit_papers"
+    ],
+    "available_clues": [
+      "clue_005_alibi_gap",
+      "clue_005_motive"
+    ]
+  },
+  {
+    "location_id": "loc_005_camp",
+    "name": "Abandoned Camp",
+    "description": "Colton's tent lies collapsed, gear scattered as though searched in a hurry.",
+    "location_type": "outdoor",
+    "connected_locations": [
+      "loc_005_trail",
+      "loc_005_watchtower"
+    ],
+    "available_evidence": [
+      "evidence_005_bootprint"
+    ],
+    "available_clues": [
+      "clue_005_print_match"
+    ]
+  },
+  {
+    "location_id": "loc_005_watchtower",
+    "name": "Watchtower",
+    "description": "A rusted fire lookout tower with a clear view down onto the camp below.",
+    "location_type": "outdoor",
+    "connected_locations": [
+      "loc_005_camp"
+    ],
+    "available_evidence": [
+      "evidence_005_cigarette"
+    ],
+    "available_clues": [
+      "clue_005_watchtower_link"
+    ]
+  }
+]

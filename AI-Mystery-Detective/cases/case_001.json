@@ -1,0 +1,13 @@
+{
+  "case_id": "case_001",
+  "title": "The Missing Necklace",
+  "description": "A priceless diamond necklace has vanished from the Hartley mansion during a dinner party.",
+  "location": "Hartley Mansion",
+  "crime_type": "theft",
+  "difficulty": "easy",
+  "correct_suspect": "Butler James",
+  "suspects": ["Butler James", "Mrs. Hartley", "Guest Emily"],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

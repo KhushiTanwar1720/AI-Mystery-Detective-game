@@ -1,0 +1,19 @@
+{
+  "case_id": "case_016",
+  "title": "THE FINAL CASE",
+  "description": "Every case so far has led here. The ledger from beneath Blackwood Mansion names a single figure behind years of quiet manipulation: a collector and self-styled 'curator of mysteries' known only as the Architect, operating out of a private chamber built to look like an archive of every case the detective has ever solved -- because it is one.",
+  "location": "The Architect's Chamber",
+  "crime_type": "conspiracy",
+  "difficulty": "hard",
+  "correct_suspect": "Dr. Elias Wilmarth",
+  "suspects": [
+    "Dr. Elias Wilmarth",
+    "Julian Hartley",
+    "Renee Ashworth",
+    "Corinne Vasquez",
+    "Petra Voss"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

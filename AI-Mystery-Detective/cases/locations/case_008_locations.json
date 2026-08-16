@@ -1,0 +1,76 @@
+[
+  {
+    "location_id": "loc_008_main_hall",
+    "name": "Main Hall",
+    "description": "A grand, decaying entrance hall, portraits of long-dead directors watching from the walls.",
+    "location_type": "hall",
+    "connected_locations": [
+      "loc_008_observation",
+      "loc_008_archive"
+    ],
+    "available_evidence": [
+      "evidence_008_family_letters"
+    ],
+    "available_clues": [
+      "clue_008_motive"
+    ]
+  },
+  {
+    "location_id": "loc_008_observation",
+    "name": "Observation Room",
+    "description": "A one-way mirror still intact, facing an empty patient cell.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_008_main_hall",
+      "loc_008_treatment"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_008_archive",
+    "name": "Archive",
+    "description": "Rows of records boxes, one slot conspicuously and precisely empty.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_008_main_hall",
+      "loc_008_underground"
+    ],
+    "available_evidence": [
+      "evidence_008_archive_gap",
+      "evidence_008_torn_ledger",
+      "evidence_008_glove_print"
+    ],
+    "available_clues": [
+      "clue_008_targeted_theft",
+      "clue_008_ledger_match",
+      "clue_008_height_match"
+    ]
+  },
+  {
+    "location_id": "loc_008_treatment",
+    "name": "Treatment Wing",
+    "description": "Rusted equipment still bolted to the floor of a room no one likes to linger in.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_008_observation"
+    ],
+    "available_evidence": [
+      "evidence_008_camera_footage"
+    ],
+    "available_clues": [
+      "clue_008_red_herring"
+    ]
+  },
+  {
+    "location_id": "loc_008_underground",
+    "name": "Underground Passage",
+    "description": "A narrow service tunnel connecting the archive to the grounds outside, unlocked from the inside.",
+    "location_type": "tunnel",
+    "connected_locations": [
+      "loc_008_archive"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "evidence_004_paint_hands",
+    "name": "Red Paint Residue",
+    "description": "A smear of red paint on the storage room doorknob, the same shade used on the auditorium stage.",
+    "evidence_type": "physical",
+    "location_found": "Storage Room",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Danny Ortiz"
+    ]
+  },
+  {
+    "evidence_id": "evidence_004_shoeprint",
+    "name": "Muddy Shoeprint",
+    "description": "A sneaker print by the broken cabinet latch, tread pattern matching a popular skate shoe.",
+    "evidence_type": "physical",
+    "location_found": "Principal's Office",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Danny Ortiz"
+    ]
+  },
+  {
+    "evidence_id": "evidence_004_expulsion_letter",
+    "name": "Expulsion Letter Copy",
+    "description": "A copy of Danny's expulsion letter, crumpled and stuffed behind a filing cabinet.",
+    "evidence_type": "document",
+    "location_found": "Principal's Office",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Danny Ortiz"
+    ]
+  },
+  {
+    "evidence_id": "evidence_004_flyers",
+    "name": "Fundraiser Flyers",
+    "description": "A stack of flyers listing the founder's medal as the fundraiser's centerpiece attraction -- dated after the theft, not before.",
+    "evidence_type": "document",
+    "location_found": "Classroom Wing",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": [
+      "Carla Nguyen"
+    ]
+  },
+  {
+    "evidence_id": "evidence_004_spraycan",
+    "name": "Empty Paint Can",
+    "description": "An empty can of the same red paint, hidden behind a stack of stage curtains.",
+    "evidence_type": "physical",
+    "location_found": "Old Auditorium",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Danny Ortiz"
+    ]
+  }
+]

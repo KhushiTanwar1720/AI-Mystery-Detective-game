@@ -1,0 +1,32 @@
+[
+  {
+    "clue_id": "clue_silver_smell",
+    "description": "A faint smell of silver polish lingers near the drawing room sofa, far from the cleaning cupboard.",
+    "source": "Crime scene inspection",
+    "location": "Drawing room",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": ["evidence_silver_polish_rag"],
+    "related_suspects": ["Butler James"]
+  },
+  {
+    "clue_id": "clue_nervous_behavior",
+    "description": "Butler James avoided eye contact and repeated his alibi word-for-word when questioned twice.",
+    "source": "Suspect questioning",
+    "location": "Kitchen",
+    "importance": "medium",
+    "discovered": false,
+    "related_evidence": [],
+    "related_suspects": ["Butler James"]
+  },
+  {
+    "clue_id": "clue_garden_note",
+    "description": "A note on the torn invitation mentions meeting 'by the fountain at 9'.",
+    "source": "Evidence analysis",
+    "location": "Garden",
+    "importance": "medium",
+    "discovered": false,
+    "related_evidence": ["evidence_torn_invitation"],
+    "related_suspects": ["Guest Emily"]
+  }
+]

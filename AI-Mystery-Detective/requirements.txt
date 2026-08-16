@@ -1,0 +1,8 @@
+# Runtime dependencies for AI Mystery Detective.
+#
+# pygame powers the graphical UI (ui/app.py, launched via play.py).
+# game/, ai/, and database/ (the CLI/backend, launched via main.py)
+# have no third-party dependencies and will run without pygame
+# installed -- pygame is only imported inside ui/ and only touched
+# when play.py (or ui.app) is actually run.
+pygame>=2.5,<3.0

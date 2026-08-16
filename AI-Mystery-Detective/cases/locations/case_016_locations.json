@@ -1,0 +1,80 @@
+[
+  {
+    "location_id": "loc_016_office",
+    "name": "Detective's Office",
+    "description": "Case files from the entire campaign pinned across every wall, red thread connecting them all to one point.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_016_ruins",
+      "loc_016_archive"
+    ],
+    "available_evidence": [
+      "evidence_016_financial_web"
+    ],
+    "available_clues": [
+      "clue_016_web_convergence"
+    ]
+  },
+  {
+    "location_id": "loc_016_ruins",
+    "name": "Blackwood Mansion Ruins",
+    "description": "The mansion where it all began, now partially excavated down to the complex beneath it.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_016_office",
+      "loc_016_chamber"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_016_chamber",
+    "name": "The Society's Chamber",
+    "description": "A private meeting room, its long table still set as though a council once gathered here.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_016_ruins",
+      "loc_016_archive"
+    ],
+    "available_evidence": [
+      "evidence_016_commission_letters"
+    ],
+    "available_clues": [
+      "clue_016_direct_orders"
+    ]
+  },
+  {
+    "location_id": "loc_016_archive",
+    "name": "The Archive of Cases",
+    "description": "A private museum of every mystery solved so far, each one catalogued like a trophy.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_016_office",
+      "loc_016_chamber",
+      "loc_016_confrontation"
+    ],
+    "available_evidence": [
+      "evidence_016_master_ledger",
+      "evidence_016_case_trophies"
+    ],
+    "available_clues": [
+      "clue_016_pattern_confirmed",
+      "clue_016_trophy_match"
+    ]
+  },
+  {
+    "location_id": "loc_016_confrontation",
+    "name": "The Final Confrontation Room",
+    "description": "A single chair faces a wall of one-way glass -- the Architect's last vantage point.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_016_archive"
+    ],
+    "available_evidence": [
+      "evidence_016_confession_recording"
+    ],
+    "available_clues": [
+      "clue_016_own_words"
+    ]
+  }
+]

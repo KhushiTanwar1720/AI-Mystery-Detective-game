@@ -1,0 +1,56 @@
+[
+  {
+    "location_id": "loc_drawing_room",
+    "name": "Drawing Room",
+    "description": "An elegant sitting room where the dinner party guests gathered before the necklace vanished.",
+    "location_type": "room",
+    "connected_locations": ["loc_drawing_room_sofa", "loc_kitchen", "loc_garden"],
+    "available_evidence": [],
+    "available_clues": ["clue_silver_smell"]
+  },
+  {
+    "location_id": "loc_drawing_room_sofa",
+    "name": "Drawing Room Sofa",
+    "description": "A plush sofa tucked in the corner of the drawing room, its cushions slightly disturbed.",
+    "location_type": "furniture",
+    "connected_locations": ["loc_drawing_room"],
+    "available_evidence": ["evidence_silver_polish_rag"],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_garden",
+    "name": "Garden",
+    "description": "The mansion's rear garden, quiet and shadowed at night, with a stone fountain at its center.",
+    "location_type": "outdoor",
+    "connected_locations": ["loc_drawing_room", "loc_garden_path"],
+    "available_evidence": [],
+    "available_clues": ["clue_garden_note"]
+  },
+  {
+    "location_id": "loc_garden_path",
+    "name": "Garden Path",
+    "description": "A gravel path winding from the garden toward the mansion's side entrance.",
+    "location_type": "outdoor",
+    "connected_locations": ["loc_garden"],
+    "available_evidence": ["evidence_torn_invitation"],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_kitchen",
+    "name": "Kitchen",
+    "description": "The mansion's kitchen, still smelling faintly of the evening's dinner service.",
+    "location_type": "room",
+    "connected_locations": ["loc_drawing_room", "loc_kitchen_hallway"],
+    "available_evidence": [],
+    "available_clues": ["clue_nervous_behavior"]
+  },
+  {
+    "location_id": "loc_kitchen_hallway",
+    "name": "Kitchen Hallway",
+    "description": "A narrow hallway connecting the kitchen to the garden door.",
+    "location_type": "hallway",
+    "connected_locations": ["loc_kitchen"],
+    "available_evidence": ["evidence_muddy_footprints"],
+    "available_clues": []
+  }
+]

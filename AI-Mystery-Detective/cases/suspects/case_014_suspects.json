@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_desmond_pike",
+    "name": "Desmond Pike",
+    "age": 37,
+    "occupation": "Treasure hunter",
+    "description": "Has been documenting drought-exposed lakebeds online for years, hoping to find exactly this kind of lockbox.",
+    "relationship_to_victim": "Stranger",
+    "alibi": "Claims he only just arrived in town today, cameras rolling for his channel.",
+    "behavior": [
+      "His own uploaded footage from three days ago already shows him standing at the town hall steps."
+    ],
+    "statements": [],
+    "suspicion_level": 55
+  },
+  {
+    "suspect_id": "suspect_ilsa_bram",
+    "name": "Ilsa Bram",
+    "age": 52,
+    "occupation": "Local historian",
+    "description": "Has researched Merrow's flooding for a planned book and knows every building's layout by heart.",
+    "relationship_to_victim": "Researcher",
+    "alibi": "Says she was cataloguing the old hotel's foundation the whole week.",
+    "behavior": [
+      "Was the one who alerted authorities the moment she noticed the lockbox missing."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  },
+  {
+    "suspect_id": "suspect_wyatt_merrow",
+    "name": "Wyatt Merrow",
+    "age": 44,
+    "occupation": "Descendant of the town's founder",
+    "description": "His family lost everything when Merrow was flooded and has long claimed the lockbox held family gold.",
+    "relationship_to_victim": "Family connection",
+    "alibi": "Says he only came to see his ancestral town for the first time since childhood.",
+    "behavior": [
+      "Seemed more interested in photographing the ruins than searching for the lockbox."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  },
+  {
+    "suspect_id": "suspect_fran_doyle",
+    "name": "Fran Doyle",
+    "age": 48,
+    "occupation": "Insurance adjuster",
+    "description": "Sent to assess the reservoir authority's liability now that the town has resurfaced.",
+    "relationship_to_victim": "Professional visitor",
+    "alibi": "Says she spent the week only at the flooded street's edge, taking structural photos.",
+    "behavior": [
+      "Filed her report before the lockbox was even reported missing, oddly premature."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  }
+]

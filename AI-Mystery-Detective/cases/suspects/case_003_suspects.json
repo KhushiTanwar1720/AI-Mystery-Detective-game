@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_marcus_bell",
+    "name": "Marcus Bell",
+    "age": 44,
+    "occupation": "Antiques dealer",
+    "description": "A well-dressed dealer who has been trying to buy the hotel's fixtures for months.",
+    "relationship_to_victim": "Prospective buyer",
+    "alibi": "Says he was cataloguing furniture in the lobby all afternoon.",
+    "behavior": [
+      "Kept steering the conversation toward the value of the deed rather than the theft itself."
+    ],
+    "statements": [],
+    "suspicion_level": 25
+  },
+  {
+    "suspect_id": "suspect_renee_ashworth",
+    "name": "Renee Ashworth",
+    "age": 31,
+    "occupation": "Niece of the estate's owner",
+    "description": "Set to inherit the hotel property once probate closes -- unless the deed proves the land was never truly her uncle's to leave.",
+    "relationship_to_victim": "Heir",
+    "alibi": "Claims she arrived at the hotel only minutes before the safe was found empty.",
+    "behavior": [
+      "Her shoes were damp with basement dust despite her claiming she'd never gone downstairs."
+    ],
+    "statements": [],
+    "suspicion_level": 40
+  },
+  {
+    "suspect_id": "suspect_tobias_grey",
+    "name": "Tobias Grey",
+    "age": 58,
+    "occupation": "Groundskeeper",
+    "description": "Has maintained the property alone since it closed, resentful of never being paid for the last two years.",
+    "relationship_to_victim": "Employee",
+    "alibi": "Says he was clearing the garden path and never went above the ground floor.",
+    "behavior": [
+      "Mentioned being owed back wages before anyone asked about money."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  },
+  {
+    "suspect_id": "suspect_iris_calloway",
+    "name": "Iris Calloway",
+    "age": 63,
+    "occupation": "Former front desk clerk",
+    "description": "Returned for the first time since the hotel closed, saying she wanted to see it one last time.",
+    "relationship_to_victim": "Former employee",
+    "alibi": "Says she went straight to the reception desk and stayed there reminiscing.",
+    "behavior": [
+      "Recognized the safe's mechanism instantly, despite it being an unusual custom model."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  }
+]

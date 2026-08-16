@@ -1,0 +1,13 @@
+{
+  "case_id": "case_002",
+  "title": "Murder at Midnight",
+  "description": "A wealthy businessman is found dead in his locked study at exactly midnight.",
+  "location": "Downtown Office Tower",
+  "crime_type": "murder",
+  "difficulty": "hard",
+  "correct_suspect": "Business Partner Alan",
+  "suspects": ["Business Partner Alan", "Night Guard Tom", "Ex-Wife Diana"],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

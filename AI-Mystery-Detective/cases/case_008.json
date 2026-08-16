@@ -1,0 +1,18 @@
+{
+  "case_id": "case_008",
+  "title": "The Forgotten Asylum",
+  "description": "Blackgate Asylum closed in disgrace after reports of unauthorized experiments on patients. A historian cataloguing the site for a museum exhibit has gone silent mid-survey, and the asylum's most damning archive box -- documenting exactly who authorized the experiments -- is missing from the archive shelf.",
+  "location": "Blackgate Asylum",
+  "crime_type": "disappearance",
+  "difficulty": "hard",
+  "correct_suspect": "Vivian Ashgrove",
+  "suspects": [
+    "Vivian Ashgrove",
+    "Pete Malone",
+    "Dr. Corwin Blake",
+    "Femi Adeyemi"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

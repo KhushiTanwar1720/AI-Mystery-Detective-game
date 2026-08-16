@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_silas_quill",
+    "name": "Silas Quill",
+    "age": 48,
+    "occupation": "Traveling antiques trader",
+    "description": "Arrived in the village the week before the evacuation, asking questions about the bell's history and value.",
+    "relationship_to_victim": "Stranger",
+    "alibi": "Claims he left the area before the evacuation even began.",
+    "behavior": [
+      "A toll receipt he offered as proof of leaving early was actually stamped hours after the evacuation started."
+    ],
+    "statements": [],
+    "suspicion_level": 55
+  },
+  {
+    "suspect_id": "suspect_rowan_marrow",
+    "name": "Rowan Marrow",
+    "age": 26,
+    "occupation": "Agnes's grandson",
+    "description": "Stands to inherit Agnes's cottage and land, and had argued with her the week before about selling the property.",
+    "relationship_to_victim": "Grandson",
+    "alibi": "Says he evacuated with everyone else and never went back for her.",
+    "behavior": [
+      "Was the only villager who refused to help search when the group returned."
+    ],
+    "statements": [],
+    "suspicion_level": 25
+  },
+  {
+    "suspect_id": "suspect_old_ezra",
+    "name": "Old Ezra",
+    "age": 74,
+    "occupation": "Village recluse",
+    "description": "Lives at the edge of the forest path and rarely speaks to anyone.",
+    "relationship_to_victim": "Neighbor",
+    "alibi": "Says he never evacuated at all and simply stayed in his own house the whole time.",
+    "behavior": [
+      "Knew Agnes had stayed behind, information no one else had shared publicly."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  },
+  {
+    "suspect_id": "suspect_father_devlin",
+    "name": "Father Devlin",
+    "age": 57,
+    "occupation": "Church caretaker",
+    "description": "Has cared for the church and its bell for thirty years.",
+    "relationship_to_victim": "Community elder",
+    "alibi": "Says he oversaw the evacuation and left last, locking the church behind him.",
+    "behavior": [
+      "Was the most distressed of anyone over the bell, insisting it be found before Agnes was even mentioned."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  }
+]

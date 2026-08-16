@@ -1,0 +1,72 @@
+[
+  {
+    "clue_id": "clue_014_presence_proof",
+    "description": "Desmond's own footage places him at the scene days before he claims to have arrived.",
+    "source": "Evidence analysis",
+    "location": "Town Hall",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_014_upload_timestamp"
+    ],
+    "related_suspects": [
+      "Desmond Pike"
+    ]
+  },
+  {
+    "clue_id": "clue_014_recency",
+    "description": "The impression in the mud is far too crisp to have survived decades underwater -- it was made recently, after the theft.",
+    "source": "Crime scene inspection",
+    "location": "Town Hall",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_014_lockbox_dent"
+    ],
+    "related_suspects": [
+      "Desmond Pike"
+    ]
+  },
+  {
+    "clue_id": "clue_014_motive",
+    "description": "Desmond publicly named this exact lockbox as his life's goal long before the drought even exposed the town.",
+    "source": "Evidence analysis",
+    "location": "Flooded Street",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_014_channel_post"
+    ],
+    "related_suspects": [
+      "Desmond Pike"
+    ]
+  },
+  {
+    "clue_id": "clue_014_staged_scare",
+    "description": "The rigged 'haunting' props show a deliberate effort to keep others away from the ruins while he searched.",
+    "source": "Crime scene inspection",
+    "location": "Old Hotel",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_014_scare_props"
+    ],
+    "related_suspects": [
+      "Desmond Pike"
+    ]
+  },
+  {
+    "clue_id": "clue_014_escape_route",
+    "description": "The fresh mud trail traces Desmond's likely path out of town with the lockbox in hand.",
+    "source": "Crime scene inspection",
+    "location": "Underground Tunnel",
+    "importance": "medium",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_014_tunnel_mud"
+    ],
+    "related_suspects": [
+      "Desmond Pike"
+    ]
+  }
+]

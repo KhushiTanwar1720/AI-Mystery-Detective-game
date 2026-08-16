@@ -1,0 +1,70 @@
+[
+  {
+    "clue_id": "clue_011_sabotage_confirmed",
+    "description": "Clean-cut wires rule out storm damage -- someone deliberately darkened the light.",
+    "source": "Crime scene inspection",
+    "location": "Lantern Room",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_011_cut_wires"
+    ],
+    "related_suspects": [
+      "Barnaby Slate"
+    ]
+  },
+  {
+    "clue_id": "clue_011_alibi_broken",
+    "description": "The harbor log directly contradicts Barnaby's claim of staying docked all night.",
+    "source": "Evidence analysis",
+    "location": "Basement",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_011_harbor_log"
+    ],
+    "related_suspects": [
+      "Barnaby Slate"
+    ]
+  },
+  {
+    "clue_id": "clue_011_motive",
+    "description": "The unmarked manifest gives Barnaby a precise reason to want the light dark on that exact night.",
+    "source": "Evidence analysis",
+    "location": "Keeper's Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_011_shipping_manifest"
+    ],
+    "related_suspects": [
+      "Barnaby Slate"
+    ]
+  },
+  {
+    "clue_id": "clue_011_timeline",
+    "description": "The wet boot prints place someone climbing to the lantern room at precisely the moment the light died.",
+    "source": "Crime scene inspection",
+    "location": "Spiral Staircase",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_011_wet_bootprints"
+    ],
+    "related_suspects": [
+      "Barnaby Slate"
+    ]
+  },
+  {
+    "clue_id": "clue_011_aldous_fate",
+    "description": "The torn logbook page suggests Aldous confronted the saboteur directly rather than simply vanishing in the storm -- his disappearance is connected, not separate.",
+    "source": "Evidence analysis",
+    "location": "Lantern Room",
+    "importance": "medium",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_011_torn_logpage"
+    ],
+    "related_suspects": []
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "clue_id": "clue_003_tool_match",
+    "description": "The pry marks on the safe match a flathead tool found in Renee's car, not any tool from Tobias's shed.",
+    "source": "Crime scene inspection",
+    "location": "Room 207",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_003_pry_marks"
+    ],
+    "related_suspects": [
+      "Renee Ashworth"
+    ]
+  },
+  {
+    "clue_id": "clue_003_footprint_size",
+    "description": "The fresh basement footprints match Renee's shoe size, not Tobias's or Marcus's.",
+    "source": "Crime scene inspection",
+    "location": "Basement",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_003_basement_dust"
+    ],
+    "related_suspects": [
+      "Renee Ashworth"
+    ]
+  },
+  {
+    "clue_id": "clue_003_motive",
+    "description": "The probate letter shows Renee had every reason to make the deed disappear before the estate closes.",
+    "source": "Evidence analysis",
+    "location": "Reception",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_003_probate_letter"
+    ],
+    "related_suspects": [
+      "Renee Ashworth"
+    ]
+  },
+  {
+    "clue_id": "clue_003_contradiction",
+    "description": "Renee said she never went below the ground floor, but the basement footprints and dust on her shoes say otherwise.",
+    "source": "Suspect questioning",
+    "location": "Basement",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_003_basement_dust"
+    ],
+    "related_suspects": [
+      "Renee Ashworth"
+    ]
+  },
+  {
+    "clue_id": "clue_003_red_herring",
+    "description": "Tobias's log entry is unsettling but only proves he noticed the intrusion, not that he caused it.",
+    "source": "Evidence analysis",
+    "location": "Guest Hallway",
+    "importance": "low",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_003_caretaker_log"
+    ],
+    "related_suspects": [
+      "Tobias Grey"
+    ]
+  }
+]

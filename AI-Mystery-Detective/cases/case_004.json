@@ -1,0 +1,18 @@
+{
+  "case_id": "case_004",
+  "title": "The Empty School",
+  "description": "Roosevelt Middle School is closed for the summer, but someone has broken into the principal's locked trophy cabinet and taken the school's century-old founder's medal -- and left the auditorium stage covered in red paint spelling out a warning to 'stay out'.",
+  "location": "Roosevelt Middle School",
+  "crime_type": "theft",
+  "difficulty": "easy",
+  "correct_suspect": "Danny Ortiz",
+  "suspects": [
+    "Ruben Cole",
+    "Ms. Fairweather",
+    "Danny Ortiz",
+    "Carla Nguyen"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

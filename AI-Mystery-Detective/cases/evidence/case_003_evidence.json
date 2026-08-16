@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "evidence_003_pry_marks",
+    "name": "Fresh Pry Marks",
+    "description": "Scrape marks on the safe's edge, made with a tool no more than a few days old -- not decade-old rust.",
+    "evidence_type": "physical",
+    "location_found": "Room 207",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Renee Ashworth"
+    ]
+  },
+  {
+    "evidence_id": "evidence_003_basement_dust",
+    "name": "Disturbed Basement Dust",
+    "description": "A single set of fresh footprints crossing a decade of undisturbed dust, leading toward the service stairwell up to Room 207.",
+    "evidence_type": "physical",
+    "location_found": "Basement",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Renee Ashworth"
+    ]
+  },
+  {
+    "evidence_id": "evidence_003_probate_letter",
+    "name": "Probate Attorney's Letter",
+    "description": "A letter warning that if the original deed surfaces, it names the land a public trust -- voiding Renee's inheritance entirely.",
+    "evidence_type": "document",
+    "location_found": "Reception",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Renee Ashworth"
+    ]
+  },
+  {
+    "evidence_id": "evidence_003_caretaker_log",
+    "name": "Caretaker's Log",
+    "description": "Tobias's logbook, ending abruptly the same night with the line 'someone's been in Room 207 again.'",
+    "evidence_type": "document",
+    "location_found": "Guest Hallway",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Tobias Grey"
+    ]
+  },
+  {
+    "evidence_id": "evidence_003_appraisal_note",
+    "name": "Torn Appraisal Note",
+    "description": "A note in Marcus Bell's handwriting estimating the hotel's fixtures at well under what he offered publicly -- he wanted it cheap, not the deed.",
+    "evidence_type": "document",
+    "location_found": "Room 207",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": [
+      "Marcus Bell"
+    ]
+  }
+]

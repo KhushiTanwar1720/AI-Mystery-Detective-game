@@ -1,0 +1,18 @@
+{
+  "case_id": "case_014",
+  "title": "The Town Beneath the Lake",
+  "description": "A decades-long drought has drained Lake Ashwell, revealing the submerged town of Merrow that was flooded to build the reservoir in 1962. Inside the reemerged town hall, a lockbox believed lost in the flood is gone -- and it vanished only in the last few days, long after the lake receded.",
+  "location": "The Sunken Town of Merrow",
+  "crime_type": "theft",
+  "difficulty": "hard",
+  "correct_suspect": "Desmond Pike",
+  "suspects": [
+    "Desmond Pike",
+    "Ilsa Bram",
+    "Wyatt Merrow",
+    "Fran Doyle"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

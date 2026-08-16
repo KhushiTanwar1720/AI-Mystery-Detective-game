@@ -1,0 +1,92 @@
+[
+  {
+    "location_id": "loc_015_entrance",
+    "name": "Underground Entrance",
+    "description": "A rough-cut breach in the mansion's original foundation, dust still settling from the renovation crew's drill.",
+    "location_type": "entrance",
+    "connected_locations": [
+      "loc_015_archive",
+      "loc_015_investigation"
+    ],
+    "available_evidence": [
+      "evidence_015_james_denial"
+    ],
+    "available_clues": [
+      "clue_015_james_cleared"
+    ]
+  },
+  {
+    "location_id": "loc_015_archive",
+    "name": "Archive",
+    "description": "Shelves of ledgers and files, organized with a precision no casual visitor could manage.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_015_entrance",
+      "loc_015_lab"
+    ],
+    "available_evidence": [
+      "evidence_015_ledger"
+    ],
+    "available_clues": [
+      "clue_015_financial_trail"
+    ]
+  },
+  {
+    "location_id": "loc_015_lab",
+    "name": "Hidden Laboratory",
+    "description": "An old workspace repurposed for document forgery and analysis, tools still laid out on the bench.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_015_archive"
+    ],
+    "available_evidence": [
+      "evidence_015_handwriting_sample"
+    ],
+    "available_clues": [
+      "clue_015_handwriting_match"
+    ]
+  },
+  {
+    "location_id": "loc_015_investigation",
+    "name": "Investigation Room",
+    "description": "A wall of case files, the necklace file left open at the center as though someone wanted it found.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_015_entrance",
+      "loc_015_restricted"
+    ],
+    "available_evidence": [
+      "evidence_015_annotated_file"
+    ],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_015_restricted",
+    "name": "Restricted Area",
+    "description": "A reinforced door with a modern electronic lock, out of place among the complex's older fixtures.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_015_investigation",
+      "loc_015_corridor"
+    ],
+    "available_evidence": [
+      "evidence_015_key_fob"
+    ],
+    "available_clues": [
+      "clue_015_key_access"
+    ]
+  },
+  {
+    "location_id": "loc_015_corridor",
+    "name": "Deep Corridor",
+    "description": "The complex's furthest reach, a hand-drawn map pinned to the wall with recent corrections in fresh ink.",
+    "location_type": "hallway",
+    "connected_locations": [
+      "loc_015_restricted"
+    ],
+    "available_evidence": [],
+    "available_clues": [
+      "clue_015_contradiction"
+    ]
+  }
+]

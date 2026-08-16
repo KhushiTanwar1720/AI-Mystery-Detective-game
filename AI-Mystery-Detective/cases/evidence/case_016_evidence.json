@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "evidence_016_master_ledger",
+    "name": "The Architect's Master Ledger",
+    "description": "A single ledger cross-referencing every prior case -- the necklace, the hotel deed, the mural, the lighthouse sabotage -- all funded or directed from this chamber.",
+    "evidence_type": "document",
+    "location_found": "The Archive of Cases",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Dr. Elias Wilmarth"
+    ]
+  },
+  {
+    "evidence_id": "evidence_016_commission_letters",
+    "name": "Signed Commission Letters",
+    "description": "Commission letters in Wilmarth's own hand, instructing agents across a decade of cases -- including Corinne Vasquez at Millbrook Station.",
+    "evidence_type": "document",
+    "location_found": "The Society's Chamber",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Dr. Elias Wilmarth"
+    ]
+  },
+  {
+    "evidence_id": "evidence_016_case_trophies",
+    "name": "Case Trophy Collection",
+    "description": "A locked cabinet holding physical mementos from prior cases -- including an item matching the Millbrook mural fragment.",
+    "evidence_type": "physical",
+    "location_found": "The Archive of Cases",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Dr. Elias Wilmarth"
+    ]
+  },
+  {
+    "evidence_id": "evidence_016_confession_recording",
+    "name": "Recorded Confession Fragment",
+    "description": "An old recording of Wilmarth explaining his 'collection' philosophy to an unnamed associate, recovered from a hidden recorder.",
+    "evidence_type": "digital",
+    "location_found": "The Final Confrontation Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Dr. Elias Wilmarth"
+    ]
+  },
+  {
+    "evidence_id": "evidence_016_financial_web",
+    "name": "Financial Web Diagram",
+    "description": "A hand-drawn diagram connecting Julian Hartley's accounts, Renee Ashworth's recruitment, and Corinne Vasquez's commissions -- all converging on Wilmarth.",
+    "evidence_type": "document",
+    "location_found": "Detective's Office",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Dr. Elias Wilmarth"
+    ]
+  }
+]

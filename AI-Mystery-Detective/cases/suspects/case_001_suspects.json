@@ -1,0 +1,38 @@
+[
+  {
+    "suspect_id": "suspect_butler_james",
+    "name": "Butler James",
+    "age": 52,
+    "occupation": "Butler",
+    "description": "Long-serving butler of the Hartley household, meticulous and reserved.",
+    "relationship_to_victim": "Employee",
+    "alibi": "Claims he was polishing silverware in the kitchen all evening.",
+    "behavior": [],
+    "statements": [],
+    "suspicion_level": 0
+  },
+  {
+    "suspect_id": "suspect_mrs_hartley",
+    "name": "Mrs. Hartley",
+    "age": 47,
+    "occupation": "Homemaker",
+    "description": "Owner of the mansion and host of the dinner party.",
+    "relationship_to_victim": "Owner of the necklace",
+    "alibi": "Says she was greeting guests at the front door.",
+    "behavior": [],
+    "statements": [],
+    "suspicion_level": 0
+  },
+  {
+    "suspect_id": "suspect_guest_emily",
+    "name": "Guest Emily",
+    "age": 29,
+    "occupation": "Art dealer",
+    "description": "A guest invited to the party, new acquaintance of the Hartleys.",
+    "relationship_to_victim": "Family friend",
+    "alibi": "Claims she was on the balcony for most of the evening.",
+    "behavior": [],
+    "statements": [],
+    "suspicion_level": 0
+  }
+]

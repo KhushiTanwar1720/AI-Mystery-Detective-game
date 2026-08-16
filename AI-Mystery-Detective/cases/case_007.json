@@ -1,0 +1,18 @@
+{
+  "case_id": "case_007",
+  "title": "The Silent Hospital",
+  "description": "St. Agnes Hospital shut its doors after a malpractice scandal twenty years ago. A journalist researching the case is found unconscious in the records room, and the patient file at the center of the old scandal has vanished from a cabinet that was supposedly welded shut.",
+  "location": "St. Agnes Hospital",
+  "crime_type": "document theft",
+  "difficulty": "medium",
+  "correct_suspect": "Dr. Warren Holt",
+  "suspects": [
+    "Dr. Warren Holt",
+    "Nathaniel Cross",
+    "Priya Desai",
+    "Sam the Security Guard"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

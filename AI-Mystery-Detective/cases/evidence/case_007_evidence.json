@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "evidence_007_cut_weld",
+    "name": "Freshly Cut Weld",
+    "description": "The 'welded shut' cabinet's seam was cut with a tool, cleanly and recently, not decades ago.",
+    "evidence_type": "physical",
+    "location_found": "Records Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Dr. Warren Holt"
+    ]
+  },
+  {
+    "evidence_id": "evidence_007_settlement",
+    "name": "Sealed Settlement Copy",
+    "description": "A copy of a confidential settlement that names Dr. Holt as personally negligent -- the exact contents of the missing file, according to Nathaniel's notes.",
+    "evidence_type": "document",
+    "location_found": "Reception",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Dr. Warren Holt"
+    ]
+  },
+  {
+    "evidence_id": "evidence_007_glove",
+    "name": "Surgical Glove",
+    "description": "A single latex glove dropped near where Nathaniel was found, a brand still used at Dr. Holt's current private practice.",
+    "evidence_type": "physical",
+    "location_found": "Records Room",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Dr. Warren Holt"
+    ]
+  },
+  {
+    "evidence_id": "evidence_007_visitor_log",
+    "name": "Dusty Visitor Log",
+    "description": "An old sign-in sheet with one very recent entry, the ink still legible where every other line has faded.",
+    "evidence_type": "document",
+    "location_found": "Patient Ward",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Dr. Warren Holt"
+    ]
+  },
+  {
+    "evidence_id": "evidence_007_flashlight",
+    "name": "Guard's Flashlight",
+    "description": "Sam's flashlight, batteries fully dead.",
+    "evidence_type": "physical",
+    "location_found": "Basement",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": [
+      "Sam the Security Guard"
+    ]
+  }
+]

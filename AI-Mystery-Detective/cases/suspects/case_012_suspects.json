@@ -1,0 +1,72 @@
+[
+  {
+    "suspect_id": "suspect_adrian_vale",
+    "name": "Adrian Vale",
+    "age": 47,
+    "occupation": "Art restorer",
+    "description": "Spent six months restoring the family portrait unveiled tonight -- and secretly replaced a damaged section with a forged patch Edmund had just discovered.",
+    "relationship_to_victim": "Contracted restorer",
+    "alibi": "Says he was in the ballroom greeting guests when Edmund was found.",
+    "behavior": [
+      "Left the ballroom for nearly twenty unaccounted-for minutes shortly before the body was discovered."
+    ],
+    "statements": [],
+    "suspicion_level": 55
+  },
+  {
+    "suspect_id": "suspect_higgins",
+    "name": "Butler Higgins",
+    "age": 62,
+    "occupation": "Family butler",
+    "description": "Has served the Thorncastles for four decades and discovered the body.",
+    "relationship_to_victim": "Longtime employee",
+    "alibi": "Says he was overseeing the kitchen staff until he went to check on Edmund.",
+    "behavior": [
+      "Was visibly shaken, consistent with someone who found the body rather than caused it."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  },
+  {
+    "suspect_id": "suspect_camille",
+    "name": "Camille Thorncastle",
+    "age": 29,
+    "occupation": "Edmund's daughter",
+    "description": "Set to inherit the estate, though she and Edmund had reconciled only recently after years of estrangement.",
+    "relationship_to_victim": "Daughter",
+    "alibi": "Says she was greeting guests in the ballroom the entire evening, corroborated by several attendees.",
+    "behavior": [
+      "Was the one who insisted on a full investigation rather than accepting a quiet 'natural causes' explanation."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  },
+  {
+    "suspect_id": "suspect_reeve",
+    "name": "Investigator Reeve",
+    "age": 44,
+    "occupation": "Private investigator hired by the family",
+    "description": "Hired weeks ago after Edmund grew suspicious someone close to him was hiding something.",
+    "relationship_to_victim": "Hired investigator",
+    "alibi": "Says he was reviewing the guest list against known art forgery rings in the servant quarters.",
+    "behavior": [
+      "Had compiled a private file specifically on Adrian's past restoration work before tonight."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  },
+  {
+    "suspect_id": "suspect_silas_gardener",
+    "name": "Silas the Gardener",
+    "age": 55,
+    "occupation": "Groundskeeper",
+    "description": "Maintains the manor's grounds and rarely enters the house itself.",
+    "relationship_to_victim": "Employee",
+    "alibi": "Says he was outside managing the fog-shrouded garden lanterns all evening.",
+    "behavior": [
+      "Noticed a side door left unlatched, unusual for a night with so many staff on duty."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  }
+]

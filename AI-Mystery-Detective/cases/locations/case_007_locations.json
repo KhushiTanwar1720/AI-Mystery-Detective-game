@@ -1,0 +1,78 @@
+[
+  {
+    "location_id": "loc_007_reception",
+    "name": "Reception",
+    "description": "Peeling paint and an old admissions desk, papers scattered by decades of drafts.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_007_ward",
+      "loc_007_records"
+    ],
+    "available_evidence": [
+      "evidence_007_settlement"
+    ],
+    "available_clues": [
+      "clue_007_motive"
+    ]
+  },
+  {
+    "location_id": "loc_007_ward",
+    "name": "Patient Ward",
+    "description": "Rows of rusted bed frames, one visitor log still resting on a nurse's station.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_007_reception",
+      "loc_007_operating"
+    ],
+    "available_evidence": [
+      "evidence_007_visitor_log"
+    ],
+    "available_clues": [
+      "clue_007_contradiction"
+    ]
+  },
+  {
+    "location_id": "loc_007_records",
+    "name": "Records Room",
+    "description": "Filing cabinets line every wall; one stands open where it should have been sealed forever.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_007_reception",
+      "loc_007_basement"
+    ],
+    "available_evidence": [
+      "evidence_007_cut_weld",
+      "evidence_007_glove"
+    ],
+    "available_clues": [
+      "clue_007_weld_timing",
+      "clue_007_glove_brand"
+    ]
+  },
+  {
+    "location_id": "loc_007_operating",
+    "name": "Operating Wing",
+    "description": "Surgical lights hang dark and dust-covered over an empty table.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_007_ward"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_007_basement",
+    "name": "Basement",
+    "description": "Pipes drip steadily into puddles that have collected for years.",
+    "location_type": "basement",
+    "connected_locations": [
+      "loc_007_records"
+    ],
+    "available_evidence": [
+      "evidence_007_flashlight"
+    ],
+    "available_clues": [
+      "clue_007_red_herring"
+    ]
+  }
+]

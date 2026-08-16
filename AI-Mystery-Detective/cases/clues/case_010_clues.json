@@ -1,0 +1,70 @@
+[
+  {
+    "clue_id": "clue_010_receipt_timing",
+    "description": "The toll receipt's timestamp places Silas still in the area well after he claimed to have left.",
+    "source": "Evidence analysis",
+    "location": "Village Square",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_010_toll_receipt"
+    ],
+    "related_suspects": [
+      "Silas Quill"
+    ]
+  },
+  {
+    "clue_id": "clue_010_pulley_method",
+    "description": "The rope marks show exactly how a single person could lower the heavy bell without help.",
+    "source": "Crime scene inspection",
+    "location": "Abandoned Church",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_010_rope_marks"
+    ],
+    "related_suspects": [
+      "Silas Quill"
+    ]
+  },
+  {
+    "clue_id": "clue_010_specialty_match",
+    "description": "Silas's business card confirms his exact trade specialty matches the stolen item precisely.",
+    "source": "Evidence analysis",
+    "location": "Abandoned Church",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_010_appraisal_card"
+    ],
+    "related_suspects": [
+      "Silas Quill"
+    ]
+  },
+  {
+    "clue_id": "clue_010_wheel_direction",
+    "description": "The wheel tracks lead away from the village toward the main road, not toward any resident's house.",
+    "source": "Crime scene inspection",
+    "location": "Forest Path",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_010_wheel_tracks"
+    ],
+    "related_suspects": [
+      "Silas Quill"
+    ]
+  },
+  {
+    "clue_id": "clue_010_agnes_resolution",
+    "description": "Agnes's shawl at the well, not the forest path, shows she simply went to check on her property alone and lost track of time -- unrelated to the theft.",
+    "source": "Crime scene inspection",
+    "location": "Well Area",
+    "importance": "medium",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_010_agnes_shawl"
+    ],
+    "related_suspects": []
+  }
+]

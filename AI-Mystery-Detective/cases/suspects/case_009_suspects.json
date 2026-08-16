@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_corinne_vasquez",
+    "name": "Corinne Vasquez",
+    "age": 45,
+    "occupation": "Art collector's agent",
+    "description": "Represents a private collector known to pursue rare transit-era murals through any means necessary.",
+    "relationship_to_victim": "Prospective buyer's representative",
+    "alibi": "Claims she only toured the station on an approved historical visit.",
+    "behavior": [
+      "Carried a rolled canvas tube far too large for 'just paperwork.'"
+    ],
+    "statements": [],
+    "suspicion_level": 50
+  },
+  {
+    "suspect_id": "suspect_harold_been",
+    "name": "Harold Been",
+    "age": 60,
+    "occupation": "Former station manager",
+    "description": "Managed Millbrook until it closed and still keeps a spare set of keys 'for sentimental reasons.'",
+    "relationship_to_victim": "Former employee",
+    "alibi": "Says he stopped by only to check on the old fixtures.",
+    "behavior": [
+      "Grew defensive about still possessing station keys decades after being let go."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  },
+  {
+    "suspect_id": "suspect_talia_okafor",
+    "name": "Talia Okafor",
+    "age": 31,
+    "occupation": "Transit historian",
+    "description": "Has campaigned for years to have the mural preserved and displayed publicly.",
+    "relationship_to_victim": "Advocate",
+    "alibi": "Says she was cataloguing the platform's tile work the entire visit.",
+    "behavior": [
+      "Was visibly devastated, not evasive, when the missing section was found."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  },
+  {
+    "suspect_id": "suspect_gus_prentice",
+    "name": "Gus Prentice",
+    "age": 38,
+    "occupation": "Salvage contractor",
+    "description": "Hired to assess the station's fixtures for a possible redevelopment sale.",
+    "relationship_to_victim": "Contractor",
+    "alibi": "Says he was measuring the maintenance tunnel for the entire inspection.",
+    "behavior": [
+      "Kept mentioning the mural's resale value unprompted."
+    ],
+    "statements": [],
+    "suspicion_level": 25
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_ruben_cole",
+    "name": "Ruben Cole",
+    "age": 51,
+    "occupation": "Janitor",
+    "description": "Has worked at the school for twenty years and holds a master key to every room.",
+    "relationship_to_victim": "Employee",
+    "alibi": "Says he was mowing the athletic field the whole afternoon.",
+    "behavior": [
+      "Seemed more upset about the mess on stage than the missing medal."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  },
+  {
+    "suspect_id": "suspect_fairweather",
+    "name": "Ms. Fairweather",
+    "age": 37,
+    "occupation": "Substitute teacher",
+    "description": "Filled in for a semester and was recently told she would not be asked back next year.",
+    "relationship_to_victim": "Former staff",
+    "alibi": "Claims she only came by to collect a box of personal books from the classroom wing.",
+    "behavior": [
+      "Grew defensive when asked why she still had a staff key months after leaving."
+    ],
+    "statements": [],
+    "suspicion_level": 30
+  },
+  {
+    "suspect_id": "suspect_danny_ortiz",
+    "name": "Danny Ortiz",
+    "age": 17,
+    "occupation": "Former student",
+    "description": "Expelled last spring after a fight in the auditorium; still bitter about it.",
+    "relationship_to_victim": "Former student",
+    "alibi": "Says he was nowhere near the school today.",
+    "behavior": [
+      "Had red paint under his fingernails and a fresh scrape matching the cabinet's broken latch."
+    ],
+    "statements": [],
+    "suspicion_level": 55
+  },
+  {
+    "suspect_id": "suspect_carla_nguyen",
+    "name": "Carla Nguyen",
+    "age": 45,
+    "occupation": "PTA president",
+    "description": "Organizing an alumni fundraiser and had asked to borrow the medal for a display.",
+    "relationship_to_victim": "Volunteer",
+    "alibi": "Says she dropped off fundraiser flyers at the front office and left immediately.",
+    "behavior": [
+      "Was annoyed her request to display the medal had been denied by the principal."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  }
+]

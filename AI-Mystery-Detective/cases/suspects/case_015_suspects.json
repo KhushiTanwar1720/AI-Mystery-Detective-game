@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_butler_james_returns",
+    "name": "Butler James",
+    "age": 54,
+    "occupation": "Butler",
+    "description": "The same butler from the original necklace case, now retired but summoned back after the discovery.",
+    "relationship_to_victim": "Former employee",
+    "alibi": "Says he never knew this underground complex existed in all his years of service.",
+    "behavior": [
+      "Recognized one specific archive ledger instantly, though he denied ever seeing this level of the house."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  },
+  {
+    "suspect_id": "suspect_julian_hartley",
+    "name": "Julian Hartley",
+    "age": 58,
+    "occupation": "Mrs. Hartley's estranged brother",
+    "description": "Vanished from the family's life decades ago after a falling-out, and has secretly financed operations from beneath the estate ever since.",
+    "relationship_to_victim": "Family",
+    "alibi": "Claims he hasn't set foot on the property in over twenty years.",
+    "behavior": [
+      "Knew the complex's layout from memory, correcting the survey team's map before they'd finished drawing it."
+    ],
+    "statements": [],
+    "suspicion_level": 55
+  },
+  {
+    "suspect_id": "suspect_petra_voss",
+    "name": "Petra Voss",
+    "age": 41,
+    "occupation": "Archivist",
+    "description": "Hired by the current Hartley estate to catalogue whatever the renovation crew found.",
+    "relationship_to_victim": "Contracted researcher",
+    "alibi": "Says she only arrived after the complex was already discovered.",
+    "behavior": [
+      "Flagged the necklace file's annotations as suspicious the moment she saw them."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  },
+  {
+    "suspect_id": "suspect_dax_reilly",
+    "name": "Dax Reilly",
+    "age": 36,
+    "occupation": "Security contractor",
+    "description": "Hired to secure the newly discovered complex against looters.",
+    "relationship_to_victim": "Contractor",
+    "alibi": "Says he was posted at the entrance the entire time.",
+    "behavior": [
+      "Was unusually familiar with the complex's original security system for someone hired just this week."
+    ],
+    "statements": [],
+    "suspicion_level": 25
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "location_id": "loc_004_entrance",
+    "name": "School Entrance",
+    "description": "Propped open with a brick despite the school being officially closed for summer.",
+    "location_type": "entrance",
+    "connected_locations": [
+      "loc_004_classrooms",
+      "loc_004_office"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_004_classrooms",
+    "name": "Classroom Wing",
+    "description": "Rows of empty desks under drop cloths, sunlight cutting through drawn blinds.",
+    "location_type": "hallway",
+    "connected_locations": [
+      "loc_004_entrance",
+      "loc_004_storage"
+    ],
+    "available_evidence": [
+      "evidence_004_flyers"
+    ],
+    "available_clues": [
+      "clue_004_red_herring"
+    ]
+  },
+  {
+    "location_id": "loc_004_office",
+    "name": "Principal's Office",
+    "description": "The trophy cabinet stands with its glass door hanging from one hinge.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_004_entrance",
+      "loc_004_auditorium"
+    ],
+    "available_evidence": [
+      "evidence_004_shoeprint",
+      "evidence_004_expulsion_letter"
+    ],
+    "available_clues": [
+      "clue_004_latch_match",
+      "clue_004_motive"
+    ]
+  },
+  {
+    "location_id": "loc_004_storage",
+    "name": "Storage Room",
+    "description": "Shelves of old textbooks and a display case that once held the founder's medal.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_004_classrooms"
+    ],
+    "available_evidence": [
+      "evidence_004_paint_hands"
+    ],
+    "available_clues": [
+      "clue_004_contradiction"
+    ]
+  },
+  {
+    "location_id": "loc_004_auditorium",
+    "name": "Old Auditorium",
+    "description": "A warning painted in red across the stage floor, still tacky to the touch.",
+    "location_type": "hall",
+    "connected_locations": [
+      "loc_004_office"
+    ],
+    "available_evidence": [
+      "evidence_004_spraycan"
+    ],
+    "available_clues": [
+      "clue_004_paint_trail"
+    ]
+  }
+]

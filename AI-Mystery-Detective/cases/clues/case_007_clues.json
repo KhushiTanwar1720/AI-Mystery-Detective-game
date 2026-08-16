@@ -1,0 +1,72 @@
+[
+  {
+    "clue_id": "clue_007_weld_timing",
+    "description": "A cut this clean and recent means someone entered the cabinet within the last few days, not years ago.",
+    "source": "Crime scene inspection",
+    "location": "Records Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_007_cut_weld"
+    ],
+    "related_suspects": [
+      "Dr. Warren Holt"
+    ]
+  },
+  {
+    "clue_id": "clue_007_motive",
+    "description": "The settlement copy shows exactly what Dr. Holt had to lose if the original file ever surfaced publicly.",
+    "source": "Evidence analysis",
+    "location": "Reception",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_007_settlement"
+    ],
+    "related_suspects": [
+      "Dr. Warren Holt"
+    ]
+  },
+  {
+    "clue_id": "clue_007_glove_brand",
+    "description": "The glove brand is only distributed to Dr. Holt's current clinic, not sold to the public.",
+    "source": "Evidence analysis",
+    "location": "Records Room",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_007_glove"
+    ],
+    "related_suspects": [
+      "Dr. Warren Holt"
+    ]
+  },
+  {
+    "clue_id": "clue_007_contradiction",
+    "description": "Dr. Holt said he hasn't entered the hospital in fifteen years, but the visitor log's freshest entry has his handwriting.",
+    "source": "Suspect questioning",
+    "location": "Patient Ward",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_007_visitor_log"
+    ],
+    "related_suspects": [
+      "Dr. Warren Holt"
+    ]
+  },
+  {
+    "clue_id": "clue_007_red_herring",
+    "description": "Sam's dead flashlight only proves poor equipment maintenance, not involvement -- his rounds route never passed the records room.",
+    "source": "Crime scene inspection",
+    "location": "Basement",
+    "importance": "low",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_007_flashlight"
+    ],
+    "related_suspects": [
+      "Sam the Security Guard"
+    ]
+  }
+]

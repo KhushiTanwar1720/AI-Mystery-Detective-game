@@ -1,0 +1,18 @@
+{
+  "case_id": "case_013",
+  "title": "The Frozen Research Facility",
+  "description": "Contact was lost with Arctic research outpost Kestrel Station three days ago. When a relief team arrives, lead researcher Dr. Elena Voss is found dead in the server room, her team's climate data wiped from every backup drive in the building.",
+  "location": "Kestrel Research Facility",
+  "crime_type": "murder",
+  "difficulty": "hard",
+  "correct_suspect": "Preston Cole",
+  "suspects": [
+    "Preston Cole",
+    "Dr. Naomi Ibrahim",
+    "Ravi",
+    "Dana Marsh"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

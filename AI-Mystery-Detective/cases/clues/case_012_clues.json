@@ -1,0 +1,84 @@
+[
+  {
+    "clue_id": "clue_012_forgery_motive",
+    "description": "The forged patch gives Adrian everything to lose the moment Edmund threatened to call in an appraiser.",
+    "source": "Crime scene inspection",
+    "location": "Ballroom",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_012_forged_patch"
+    ],
+    "related_suspects": [
+      "Adrian Vale"
+    ]
+  },
+  {
+    "clue_id": "clue_012_direct_threat",
+    "description": "Edmund's own note names Adrian directly and sets tonight as the deadline -- the same night he died.",
+    "source": "Evidence analysis",
+    "location": "Library",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_012_confrontation_note"
+    ],
+    "related_suspects": [
+      "Adrian Vale"
+    ]
+  },
+  {
+    "clue_id": "clue_012_alibi_gap",
+    "description": "Adrian's claimed alibi of 'greeting guests the whole time' is directly contradicted by a timestamped photograph.",
+    "source": "Evidence analysis",
+    "location": "Ballroom",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_012_missing_time"
+    ],
+    "related_suspects": [
+      "Adrian Vale"
+    ]
+  },
+  {
+    "clue_id": "clue_012_solvent_link",
+    "description": "The solvent trace on the library door places Adrian's restoration kit at the scene, not just his person.",
+    "source": "Crime scene inspection",
+    "location": "Library",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_012_solvent_smell"
+    ],
+    "related_suspects": [
+      "Adrian Vale"
+    ]
+  },
+  {
+    "clue_id": "clue_012_pattern",
+    "description": "Reeve's file shows this isn't Adrian's first time hiding a forgery from a client -- a pattern, not a one-off.",
+    "source": "Evidence analysis",
+    "location": "Servant Quarters",
+    "importance": "medium",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_012_investigator_file"
+    ],
+    "related_suspects": [
+      "Adrian Vale"
+    ]
+  },
+  {
+    "clue_id": "clue_012_red_herring",
+    "description": "The unlatched door only shows a quiet route existed -- it doesn't by itself prove who used it, and several staff had reason to pass through.",
+    "source": "Crime scene inspection",
+    "location": "Hidden Corridor",
+    "importance": "low",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_012_unlatched_door"
+    ],
+    "related_suspects": []
+  }
+]

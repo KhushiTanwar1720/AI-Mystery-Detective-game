@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_silas_combe",
+    "name": "Silas Combe",
+    "age": 49,
+    "occupation": "Park ranger",
+    "description": "Has patrolled this section of the forest for fifteen years and logged Colton's permit himself.",
+    "relationship_to_victim": "Park official",
+    "alibi": "Says he was stationed at the ranger cabin monitoring radio checks all night.",
+    "behavior": [
+      "Kept checking his watch as though expecting someone."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  },
+  {
+    "suspect_id": "suspect_owen_pratt",
+    "name": "Owen Pratt",
+    "age": 39,
+    "occupation": "Rival startup founder",
+    "description": "Colton's former business partner, locked in a bitter lawsuit over a patent Colton filed first.",
+    "relationship_to_victim": "Business rival",
+    "alibi": "Claims he was at a hotel two hours away the entire trip.",
+    "behavior": [
+      "A hotel receipt he offered as proof was for the night before the disappearance, not the night of it."
+    ],
+    "statements": [],
+    "suspicion_level": 50
+  },
+  {
+    "suspect_id": "suspect_dale_whitfield",
+    "name": "Dale Whitfield",
+    "age": 33,
+    "occupation": "Unlicensed trapper",
+    "description": "Known to work this stretch of forest illegally and avoid rangers whenever possible.",
+    "relationship_to_victim": "Stranger",
+    "alibi": "Refuses to say exactly where he was, only that he 'wasn't near the camp.'",
+    "behavior": [
+      "Grew nervous discussing the watchtower specifically."
+    ],
+    "statements": [],
+    "suspicion_level": 25
+  },
+  {
+    "suspect_id": "suspect_meredith_reyes",
+    "name": "Meredith Reyes",
+    "age": 28,
+    "occupation": "Colton's sister",
+    "description": "Reported him missing after he failed to call as promised.",
+    "relationship_to_victim": "Sibling",
+    "alibi": "Was at home in the city, confirmed by her office's building log.",
+    "behavior": [
+      "Provided the most detail of anyone about Colton's exact planned route."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "location_id": "loc_003_reception",
+    "name": "Abandoned Hotel Reception",
+    "description": "Dust sheets cover a once-grand lobby; the register still lies open to the last night the hotel was full.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_003_hallway",
+      "loc_003_basement"
+    ],
+    "available_evidence": [
+      "evidence_003_probate_letter"
+    ],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_003_hallway",
+    "name": "Guest Hallway",
+    "description": "A long corridor of numbered doors, most swollen shut with age.",
+    "location_type": "hallway",
+    "connected_locations": [
+      "loc_003_reception",
+      "loc_003_room207"
+    ],
+    "available_evidence": [
+      "evidence_003_caretaker_log"
+    ],
+    "available_clues": [
+      "clue_003_red_herring"
+    ]
+  },
+  {
+    "location_id": "loc_003_room207",
+    "name": "Room 207",
+    "description": "The forced-open wall safe still hangs ajar behind a crooked painting.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_003_hallway"
+    ],
+    "available_evidence": [
+      "evidence_003_pry_marks",
+      "evidence_003_appraisal_note"
+    ],
+    "available_clues": [
+      "clue_003_tool_match"
+    ]
+  },
+  {
+    "location_id": "loc_003_basement",
+    "name": "Basement",
+    "description": "A decade of undisturbed dust, broken only by one very recent set of footprints.",
+    "location_type": "basement",
+    "connected_locations": [
+      "loc_003_reception"
+    ],
+    "available_evidence": [
+      "evidence_003_basement_dust"
+    ],
+    "available_clues": [
+      "clue_003_footprint_size",
+      "clue_003_contradiction",
+      "clue_003_motive"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "clue_id": "clue_005_print_match",
+    "description": "The boot print's tread matches a limited-edition hiking boot Owen was photographed wearing at a conference last month.",
+    "source": "Evidence analysis",
+    "location": "Abandoned Camp",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_005_bootprint"
+    ],
+    "related_suspects": [
+      "Owen Pratt"
+    ]
+  },
+  {
+    "clue_id": "clue_005_alibi_gap",
+    "description": "The hotel receipt only covers the night before -- Owen has no account of his whereabouts during the actual disappearance.",
+    "source": "Evidence analysis",
+    "location": "Ranger Cabin",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_005_receipt"
+    ],
+    "related_suspects": [
+      "Owen Pratt"
+    ]
+  },
+  {
+    "clue_id": "clue_005_motive",
+    "description": "Owen's lawsuit would collapse if Colton testified in three weeks -- disappearing him solves the case for good.",
+    "source": "Evidence analysis",
+    "location": "Ranger Cabin",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_005_lawsuit_papers"
+    ],
+    "related_suspects": [
+      "Owen Pratt"
+    ]
+  },
+  {
+    "clue_id": "clue_005_watchtower_link",
+    "description": "The cigarette brand at the watchtower is the same one Owen was seen smoking outside the hotel.",
+    "source": "Crime scene inspection",
+    "location": "Watchtower",
+    "importance": "medium",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_005_cigarette"
+    ],
+    "related_suspects": [
+      "Owen Pratt"
+    ]
+  },
+  {
+    "clue_id": "clue_005_red_herring",
+    "description": "Dale's snare line is illegal but far from the camp -- poaching, not the disappearance, explains his evasiveness.",
+    "source": "Crime scene inspection",
+    "location": "Forest Trail",
+    "importance": "low",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_005_snareline"
+    ],
+    "related_suspects": [
+      "Dale Whitfield"
+    ]
+  }
+]

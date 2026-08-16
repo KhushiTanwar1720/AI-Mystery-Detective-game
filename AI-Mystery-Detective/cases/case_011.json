@@ -1,0 +1,18 @@
+{
+  "case_id": "case_011",
+  "title": "The Lighthouse",
+  "description": "Keeper Aldous Finch vanished during a storm, and the lighthouse's lamp mechanism was found sabotaged, dark for the first time in sixty years. Aldous's logbook -- which recorded every ship that passed -- is missing along with him.",
+  "location": "Cormorant Point Lighthouse",
+  "crime_type": "sabotage",
+  "difficulty": "hard",
+  "correct_suspect": "Barnaby Slate",
+  "suspects": [
+    "Barnaby Slate",
+    "Wren",
+    "Insurance Investigator Colby",
+    "Hugh Finch"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

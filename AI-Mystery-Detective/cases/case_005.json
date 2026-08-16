@@ -1,0 +1,18 @@
+{
+  "case_id": "case_005",
+  "title": "Footsteps in the Forest",
+  "description": "Hiker Colton Reyes never checked out of the ranger station after a solo overnight trip. His tent is found collapsed at an abandoned camp, his gear cache emptied, and a set of unfamiliar boot prints circle the site before vanishing onto hard ground near the watchtower.",
+  "location": "Whitmore National Forest",
+  "crime_type": "disappearance",
+  "difficulty": "medium",
+  "correct_suspect": "Owen Pratt",
+  "suspects": [
+    "Silas Combe",
+    "Owen Pratt",
+    "Dale Whitfield",
+    "Meredith Reyes"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "clue_id": "clue_016_pattern_confirmed",
+    "description": "The master ledger proves every prior case in the campaign traces back to the same funding source and the same handwriting.",
+    "source": "Evidence analysis",
+    "location": "The Archive of Cases",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_016_master_ledger"
+    ],
+    "related_suspects": [
+      "Dr. Elias Wilmarth"
+    ]
+  },
+  {
+    "clue_id": "clue_016_direct_orders",
+    "description": "The commission letters are signed and dated, directly linking Wilmarth to specific instructions given to specific agents.",
+    "source": "Evidence analysis",
+    "location": "The Society's Chamber",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_016_commission_letters"
+    ],
+    "related_suspects": [
+      "Dr. Elias Wilmarth"
+    ]
+  },
+  {
+    "clue_id": "clue_016_trophy_match",
+    "description": "The mural fragment in the trophy cabinet is the exact piece cut from Millbrook Station -- physical proof, not just paperwork.",
+    "source": "Crime scene inspection",
+    "location": "The Archive of Cases",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_016_case_trophies"
+    ],
+    "related_suspects": [
+      "Dr. Elias Wilmarth"
+    ]
+  },
+  {
+    "clue_id": "clue_016_own_words",
+    "description": "Wilmarth's recorded voice describes orchestrating cases 'to study how ordinary people behave when their world tilts' -- a confession in his own words.",
+    "source": "Evidence analysis",
+    "location": "The Final Confrontation Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_016_confession_recording"
+    ],
+    "related_suspects": [
+      "Dr. Elias Wilmarth"
+    ]
+  },
+  {
+    "clue_id": "clue_016_web_convergence",
+    "description": "Every financial thread from every prior suspect converges on one name at the center of the diagram: Wilmarth.",
+    "source": "Evidence analysis",
+    "location": "Detective's Office",
+    "importance": "high",
+    "discovered": false,
+    "related_evidence": [
+      "evidence_016_financial_web"
+    ],
+    "related_suspects": [
+      "Dr. Elias Wilmarth"
+    ]
+  }
+]

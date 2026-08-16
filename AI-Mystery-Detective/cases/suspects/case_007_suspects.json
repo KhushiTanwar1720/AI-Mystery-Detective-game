@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_warren_holt",
+    "name": "Dr. Warren Holt",
+    "age": 67,
+    "occupation": "Former hospital administrator",
+    "description": "Ran St. Agnes when the malpractice scandal broke and has always denied personal responsibility.",
+    "relationship_to_victim": "Former colleague of the journalist's source",
+    "alibi": "Says he hasn't set foot in the hospital in fifteen years.",
+    "behavior": [
+      "Knew the records room's exact layout despite claiming not to have been inside in over a decade."
+    ],
+    "statements": [],
+    "suspicion_level": 50
+  },
+  {
+    "suspect_id": "suspect_nathaniel_cross",
+    "name": "Nathaniel Cross",
+    "age": 40,
+    "occupation": "Investigative journalist",
+    "description": "The one found unconscious -- now also a person of interest, since head injuries from a fall can look identical to an attack.",
+    "relationship_to_victim": "Self",
+    "alibi": "Has no memory of the incident itself.",
+    "behavior": [
+      "Was adamant the missing file, not his own safety, be the priority."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  },
+  {
+    "suspect_id": "suspect_priya_desai",
+    "name": "Priya Desai",
+    "age": 29,
+    "occupation": "Nathaniel's research assistant",
+    "description": "Helped compile years of research into the scandal and knew exactly which file mattered most.",
+    "relationship_to_victim": "Colleague",
+    "alibi": "Says she was waiting in the car the whole time.",
+    "behavior": [
+      "Grew agitated when asked why she never came inside to check on him."
+    ],
+    "statements": [],
+    "suspicion_level": 25
+  },
+  {
+    "suspect_id": "suspect_sam_guard",
+    "name": "Sam the Security Guard",
+    "age": 52,
+    "occupation": "Overnight security contractor",
+    "description": "Hired to guard the condemned building against trespassers.",
+    "relationship_to_victim": "Stranger",
+    "alibi": "Says he was doing his usual rounds and heard nothing unusual.",
+    "behavior": [
+      "His flashlight batteries were dead when checked, despite him claiming to have used it all night."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  }
+]

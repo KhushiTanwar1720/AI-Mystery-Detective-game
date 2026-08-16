@@ -1,0 +1,90 @@
+[
+  {
+    "location_id": "loc_013_entrance",
+    "name": "Facility Entrance",
+    "description": "Wind howls against reinforced doors; a corporate courier bag lies unopened on the entry bench.",
+    "location_type": "entrance",
+    "connected_locations": [
+      "loc_013_lab",
+      "loc_013_security"
+    ],
+    "available_evidence": [
+      "evidence_013_corporate_memo"
+    ],
+    "available_clues": [
+      "clue_013_motive"
+    ]
+  },
+  {
+    "location_id": "loc_013_lab",
+    "name": "Laboratory",
+    "description": "Rows of climate samples still humming in refrigerated cases.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_013_entrance",
+      "loc_013_observation"
+    ],
+    "available_evidence": [
+      "evidence_013_ibrahim_data"
+    ],
+    "available_clues": [
+      "clue_013_red_herring"
+    ]
+  },
+  {
+    "location_id": "loc_013_observation",
+    "name": "Observation Room",
+    "description": "Monitors that once streamed live data now show only error screens.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_013_lab",
+      "loc_013_server"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_013_server",
+    "name": "Server Room",
+    "description": "Racks of drives, one rack door left ajar with a torn glove fiber caught in the hinge.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_013_observation",
+      "loc_013_underground"
+    ],
+    "available_evidence": [
+      "evidence_013_remote_access",
+      "evidence_013_broken_glove"
+    ],
+    "available_clues": [
+      "clue_013_software_intent",
+      "clue_013_glove_match"
+    ]
+  },
+  {
+    "location_id": "loc_013_security",
+    "name": "Security Wing",
+    "description": "A bank of badge-swipe terminals logging every door in the facility.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_013_entrance"
+    ],
+    "available_evidence": [
+      "evidence_013_access_log"
+    ],
+    "available_clues": [
+      "clue_013_alibi_broken"
+    ]
+  },
+  {
+    "location_id": "loc_013_underground",
+    "name": "Underground Section",
+    "description": "Sub-basement cabling tunnels running beneath the entire facility.",
+    "location_type": "basement",
+    "connected_locations": [
+      "loc_013_server"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  }
+]

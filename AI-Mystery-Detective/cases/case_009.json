@@ -1,0 +1,18 @@
+{
+  "case_id": "case_009",
+  "title": "The Underground Station",
+  "description": "Millbrook Station was sealed after the transit line closed thirty years ago, its platform mural left untouched -- until a scheduled inspection finds a section of the mural cut clean out of the wall and the control room's old logbook rifled through.",
+  "location": "Millbrook Underground Station",
+  "crime_type": "theft",
+  "difficulty": "hard",
+  "correct_suspect": "Corinne Vasquez",
+  "suspects": [
+    "Corinne Vasquez",
+    "Harold Been",
+    "Talia Okafor",
+    "Gus Prentice"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

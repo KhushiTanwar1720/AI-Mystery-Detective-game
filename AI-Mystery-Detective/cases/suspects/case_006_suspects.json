@@ -1,0 +1,58 @@
+[
+  {
+    "suspect_id": "suspect_nora_calder",
+    "name": "Nora Calder",
+    "age": 61,
+    "occupation": "Longtime housekeeper",
+    "description": "Cared for Mr. Calder for over twenty years and was named a beneficiary in the missing will.",
+    "relationship_to_victim": "Caretaker",
+    "alibi": "Says she was in the kitchen preparing for the reading of the will.",
+    "behavior": [
+      "Openly wept when the missing will was discovered."
+    ],
+    "statements": [],
+    "suspicion_level": 10
+  },
+  {
+    "suspect_id": "suspect_warren_pike",
+    "name": "Warren Pike",
+    "age": 54,
+    "occupation": "Family lawyer",
+    "description": "Drafted both wills and stood to earn a smaller fee -- and lose future business from the family -- under the newer, more equitable one.",
+    "relationship_to_victim": "Attorney",
+    "alibi": "Claims he arrived at the house only for the scheduled reading.",
+    "behavior": [
+      "Was unusually quick to suggest the older will simply be honored instead of searching further."
+    ],
+    "statements": [],
+    "suspicion_level": 45
+  },
+  {
+    "suspect_id": "suspect_douglas_calder",
+    "name": "Douglas Calder",
+    "age": 36,
+    "occupation": "Estranged son",
+    "description": "Cut out of the older will entirely after a falling-out, but reinstated in the newer one.",
+    "relationship_to_victim": "Son",
+    "alibi": "Says he only just arrived in town this morning, straight from the airport.",
+    "behavior": [
+      "Seemed genuinely confused rather than defensive when the will was reported missing."
+    ],
+    "statements": [],
+    "suspicion_level": 15
+  },
+  {
+    "suspect_id": "suspect_ellis_thorne",
+    "name": "Ellis Thorne",
+    "age": 42,
+    "occupation": "Neighbor",
+    "description": "A longtime friend of the family who often helped Mr. Calder with paperwork.",
+    "relationship_to_victim": "Family friend",
+    "alibi": "Says he stopped by yesterday to drop off groceries and hasn't been back since.",
+    "behavior": [
+      "Knew the exact location of the attic box without being told."
+    ],
+    "statements": [],
+    "suspicion_level": 20
+  }
+]

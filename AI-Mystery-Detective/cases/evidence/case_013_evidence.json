@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "evidence_013_remote_access",
+    "name": "Hidden Remote-Access Software",
+    "description": "Software on Preston's laptop capable of wiping remote drives, installed weeks before Elena's death and hidden from the team.",
+    "evidence_type": "digital",
+    "location_found": "Server Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Preston Cole"
+    ]
+  },
+  {
+    "evidence_id": "evidence_013_corporate_memo",
+    "name": "Corporate Memo",
+    "description": "An internal memo instructing Preston to 'ensure the Kestrel dataset does not reach publication' before quarterly results are finalized.",
+    "evidence_type": "document",
+    "location_found": "Facility Entrance",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Preston Cole"
+    ]
+  },
+  {
+    "evidence_id": "evidence_013_access_log",
+    "name": "Server Room Access Log",
+    "description": "A badge-swipe log placing Preston in the server room at the exact time of Elena's death, despite his claimed alibi.",
+    "evidence_type": "document",
+    "location_found": "Security Wing",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Preston Cole"
+    ]
+  },
+  {
+    "evidence_id": "evidence_013_broken_glove",
+    "name": "Torn Insulated Glove",
+    "description": "A torn cold-weather glove fiber caught in the server rack door, matching Preston's issued gear, not Elena's or Ravi's.",
+    "evidence_type": "physical",
+    "location_found": "Server Room",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Preston Cole"
+    ]
+  },
+  {
+    "evidence_id": "evidence_013_ibrahim_data",
+    "name": "Ibrahim's Raw Data Backup",
+    "description": "Naomi's independently stored raw data, offered freely and untouched by the wipe.",
+    "evidence_type": "digital",
+    "location_found": "Laboratory",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": [
+      "Dr. Naomi Ibrahim"
+    ]
+  }
+]

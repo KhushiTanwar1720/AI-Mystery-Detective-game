@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "evidence_015_annotated_file",
+    "name": "Annotated Necklace File",
+    "description": "The original Hartley necklace case file, annotated in handwriting that matches samples later confirmed to be Julian's.",
+    "evidence_type": "document",
+    "location_found": "Investigation Room",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Julian Hartley"
+    ]
+  },
+  {
+    "evidence_id": "evidence_015_ledger",
+    "name": "Decades-Long Ledger",
+    "description": "A ledger tracking years of quiet payments and operations, all traced to accounts under Julian's control.",
+    "evidence_type": "document",
+    "location_found": "Archive",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Julian Hartley"
+    ]
+  },
+  {
+    "evidence_id": "evidence_015_handwriting_sample",
+    "name": "Handwriting Sample",
+    "description": "A personal letter from Julian confirmed by a handwriting expert to match the necklace file's annotations exactly.",
+    "evidence_type": "document",
+    "location_found": "Hidden Laboratory",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Julian Hartley"
+    ]
+  },
+  {
+    "evidence_id": "evidence_015_key_fob",
+    "name": "Modern Key Fob",
+    "description": "A modern electronic key fob programmed to the complex's original lock system, found in a drawer only Julian could have accessed.",
+    "evidence_type": "physical",
+    "location_found": "Restricted Area",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Julian Hartley"
+    ]
+  },
+  {
+    "evidence_id": "evidence_015_james_denial",
+    "name": "James's Sworn Statement",
+    "description": "A statement from Butler James, sworn and consistent, that he never knew of the complex despite decades of service upstairs.",
+    "evidence_type": "document",
+    "location_found": "Underground Entrance",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": [
+      "Butler James"
+    ]
+  }
+]

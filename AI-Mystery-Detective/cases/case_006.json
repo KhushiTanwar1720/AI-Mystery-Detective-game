@@ -1,0 +1,18 @@
+{
+  "case_id": "case_006",
+  "title": "The House at the End of the Road",
+  "description": "Old Mr. Calder died peacefully in his sleep, but his handwritten final will -- kept in a locked box in the attic -- is gone by the time the family lawyer arrives to read it. Without it, an older, far less generous will takes effect.",
+  "location": "The Calder House",
+  "crime_type": "theft",
+  "difficulty": "medium",
+  "correct_suspect": "Warren Pike",
+  "suspects": [
+    "Nora Calder",
+    "Warren Pike",
+    "Douglas Calder",
+    "Ellis Thorne"
+  ],
+  "evidence": [],
+  "clues": [],
+  "status": "not_started"
+}

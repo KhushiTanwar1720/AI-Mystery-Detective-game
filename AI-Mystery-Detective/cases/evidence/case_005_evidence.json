@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "evidence_005_bootprint",
+    "name": "Unfamiliar Boot Print",
+    "description": "A boot print far larger than Colton's own gear, circling the collapsed tent twice.",
+    "evidence_type": "physical",
+    "location_found": "Abandoned Camp",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Owen Pratt"
+    ]
+  },
+  {
+    "evidence_id": "evidence_005_receipt",
+    "name": "Hotel Receipt",
+    "description": "Owen's hotel receipt, timestamped the night before the disappearance -- leaving the actual night unaccounted for.",
+    "evidence_type": "document",
+    "location_found": "Ranger Cabin",
+    "importance": "critical",
+    "discovered": false,
+    "related_suspects": [
+      "Owen Pratt"
+    ]
+  },
+  {
+    "evidence_id": "evidence_005_lawsuit_papers",
+    "name": "Lawsuit Papers",
+    "description": "Court filings showing Owen stood to lose everything if Colton's patent priority was upheld next month.",
+    "evidence_type": "document",
+    "location_found": "Ranger Cabin",
+    "importance": "high",
+    "discovered": false,
+    "related_suspects": [
+      "Owen Pratt"
+    ]
+  },
+  {
+    "evidence_id": "evidence_005_cigarette",
+    "name": "Crushed Cigarette Butts",
+    "description": "A brand Owen is known to smoke, found at the base of the watchtower.",
+    "evidence_type": "physical",
+    "location_found": "Watchtower",
+    "importance": "medium",
+    "discovered": false,
+    "related_suspects": [
+      "Owen Pratt"
+    ]
+  },
+  {
+    "evidence_id": "evidence_005_snareline",
+    "name": "Snare Line",
+    "description": "One of Dale's illegal snare lines, strung well away from the camp itself.",
+    "evidence_type": "physical",
+    "location_found": "Forest Trail",
+    "importance": "low",
+    "discovered": false,
+    "related_suspects": [
+      "Dale Whitfield"
+    ]
+  }
+]

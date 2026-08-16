@@ -1,0 +1,78 @@
+[
+  {
+    "location_id": "loc_014_street",
+    "name": "Flooded Street",
+    "description": "Cracked pavement still slick with decades of lakebed silt, storefronts frozen in 1962.",
+    "location_type": "outdoor",
+    "connected_locations": [
+      "loc_014_hotel",
+      "loc_014_hall"
+    ],
+    "available_evidence": [
+      "evidence_014_channel_post"
+    ],
+    "available_clues": [
+      "clue_014_motive"
+    ]
+  },
+  {
+    "location_id": "loc_014_hotel",
+    "name": "Old Hotel",
+    "description": "A collapsed sign still reads 'Merrow Arms,' fishing line rigged suspiciously near the doorway.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_014_street"
+    ],
+    "available_evidence": [
+      "evidence_014_scare_props"
+    ],
+    "available_clues": [
+      "clue_014_staged_scare"
+    ]
+  },
+  {
+    "location_id": "loc_014_hall",
+    "name": "Town Hall",
+    "description": "The vault room stands open, a rectangular gap in the silt where the lockbox once sat.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_014_street",
+      "loc_014_house"
+    ],
+    "available_evidence": [
+      "evidence_014_upload_timestamp",
+      "evidence_014_lockbox_dent"
+    ],
+    "available_clues": [
+      "clue_014_presence_proof",
+      "clue_014_recency"
+    ]
+  },
+  {
+    "location_id": "loc_014_house",
+    "name": "Abandoned House",
+    "description": "A modest home, family initials still carved above the doorframe.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_014_hall",
+      "loc_014_tunnel"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_014_tunnel",
+    "name": "Underground Tunnel",
+    "description": "An old drainage tunnel, exposed for the first time in sixty years, mud still soft underfoot.",
+    "location_type": "tunnel",
+    "connected_locations": [
+      "loc_014_house"
+    ],
+    "available_evidence": [
+      "evidence_014_tunnel_mud"
+    ],
+    "available_clues": [
+      "clue_014_escape_route"
+    ]
+  }
+]

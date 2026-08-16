@@ -1,0 +1,92 @@
+[
+  {
+    "location_id": "loc_012_entrance",
+    "name": "Manor Entrance",
+    "description": "Fog rolls through the open double doors, gala guests still murmuring in shock.",
+    "location_type": "entrance",
+    "connected_locations": [
+      "loc_012_ballroom"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  },
+  {
+    "location_id": "loc_012_ballroom",
+    "name": "Ballroom",
+    "description": "The unveiled portrait still hangs above the gala, guests clustered anxiously beneath it.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_012_entrance",
+      "loc_012_library",
+      "loc_012_servants"
+    ],
+    "available_evidence": [
+      "evidence_012_forged_patch",
+      "evidence_012_missing_time"
+    ],
+    "available_clues": [
+      "clue_012_forgery_motive",
+      "clue_012_alibi_gap"
+    ]
+  },
+  {
+    "location_id": "loc_012_library",
+    "name": "Library",
+    "description": "Edmund's body has been removed, but his reading chair still faces the cold fireplace.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_012_ballroom",
+      "loc_012_corridor"
+    ],
+    "available_evidence": [
+      "evidence_012_confrontation_note",
+      "evidence_012_solvent_smell"
+    ],
+    "available_clues": [
+      "clue_012_direct_threat",
+      "clue_012_solvent_link"
+    ]
+  },
+  {
+    "location_id": "loc_012_servants",
+    "name": "Servant Quarters",
+    "description": "Modest rooms below the main house, Reeve's makeshift investigation desk tucked in the corner.",
+    "location_type": "room",
+    "connected_locations": [
+      "loc_012_ballroom"
+    ],
+    "available_evidence": [
+      "evidence_012_investigator_file"
+    ],
+    "available_clues": [
+      "clue_012_pattern"
+    ]
+  },
+  {
+    "location_id": "loc_012_corridor",
+    "name": "Hidden Corridor",
+    "description": "A narrow servants' passage connecting the library to the manor's side entrance, rarely used by guests.",
+    "location_type": "hallway",
+    "connected_locations": [
+      "loc_012_library",
+      "loc_012_basement"
+    ],
+    "available_evidence": [
+      "evidence_012_unlatched_door"
+    ],
+    "available_clues": [
+      "clue_012_red_herring"
+    ]
+  },
+  {
+    "location_id": "loc_012_basement",
+    "name": "Basement",
+    "description": "Wine cellar shelves line the walls, cool and silent beneath the gala above.",
+    "location_type": "basement",
+    "connected_locations": [
+      "loc_012_corridor"
+    ],
+    "available_evidence": [],
+    "available_clues": []
+  }
+]
